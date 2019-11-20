@@ -1,0 +1,3000 @@
+# newdoc
+# sent_id = 3651
+# text = If you plot multiple charts, you will see a drop area for multi-chart fields.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	plot	plot	VERB	PRES	Case=Nom	9	advcl	_	_
+4	multiple	multiple	ADJ	POS	Degree=Pos	5	amod	_	_
+5	charts	chart	NOUN	PL-NOM	Number=Plur	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	3	punct	_	_
+7	you	you	PRON	PERS-P2	_	9	nsubj	_	_
+8	will	will	AUX	PRES-AUX	VerbForm=Fin	9	aux	_	_
+9	see	see	VERB	INF	VerbForm=Inf	0	root	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+11	drop	drop	VERB	INF	VerbForm=Inf	12	compound	_	_
+12	area	area	NOUN	SG-NOM	Number=Sing	9	obj	_	_
+13	for	for	ADP	_	_	15	case	_	_
+14	multi-chart	multichart	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	fields	field	NOUN	PL-NOM	Number=Plur	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	Period	_	9	punct	_	_
+
+# sent_id = 3652
+# text = This type of drop area is not displayed for single charts.
+1	This	this	DET	DEM-SG	Number=Sing|PronType=Dem	2	det	_	_
+2	type	type	NOUN	SG-NOM	Number=Sing	8	nsubj:pass	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	drop	drop	VERB	INF	VerbForm=Inf	5	compound	_	_
+5	area	area	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+6	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+7	not	not	PART	NEG	_	8	advmod	_	_
+8	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	for	for	ADP	_	_	11	case	_	_
+10	single	single	ADJ	POS	Degree=Pos	11	amod	_	_
+11	charts	chart	NOUN	PL-NOM	Number=Plur	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	8	punct	_	_
+
+# sent_id = 3653
+# text = Drop areas
+1	Drop	drop	VERB	INF	VerbForm=Inf	2	compound	_	_
+2	areas	area	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = 3654
+# text = Moving fields to the category and series areas
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+3	to	to	ADP	_	_	8	case	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+5	category	category	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+6	and	and	CCONJ	_	_	7	cc	_	_
+7	series	series	NOUN	SG-NOM	Number=Sing	5	conj	_	_
+8	areas	area	NOUN	PL-NOM	Number=Plur	1	obl	_	_
+
+# sent_id = 3655
+# text = When you move a field to the series area, the unique items of data within the field are displayed as data series in the chart.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	series	series	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	3	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	unique	unique	ADJ	POS	Degree=Pos	13	amod	_	_
+13	items	item	NOUN	PL-NOM	Number=Plur	20	nsubj:pass	_	_
+14	of	of	ADP	_	_	15	case	_	_
+15	data	data	NOUN	PL-NOM	Number=Sing	13	nmod	_	_
+16	within	within	ADP	_	_	18	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+18	field	field	NOUN	SG-NOM	Number=Sing	15	nmod	_	_
+19	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+21	as	as	ADP	_	_	23	case	_	_
+22	data	data	NOUN	PL-NOM	Number=Sing	23	compound	_	_
+23	series	series	NOUN	PL-NOM	Number=Sing	20	obl	_	_
+24	in	in	ADP	_	_	26	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+26	chart	chart	NOUN	SG-NOM	Number=Sing	20	obl	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	20	punct	_	_
+
+# sent_id = 3656
+# text = These series are represented by colored data markers, and their names appear in the chart legend.
+1	These	this	DET	DEM-PL	Number=Plur|PronType=Dem	2	det	_	_
+2	series	series	NOUN	PL-NOM	Number=Sing	4	nsubj:pass	_	_
+3	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	represented	represent	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	by	by	ADP	_	_	8	case	_	_
+6	colored	colored	ADJ	POS	Degree=Pos	8	amod	_	_
+7	data	data	NOUN	PL-NOM	Number=Sing	8	compound	_	_
+8	markers	marker	NOUN	PL-NOM	Number=Plur	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	4	punct	_	_
+10	and	and	CCONJ	_	_	13	cc	_	_
+11	their	they	PRON	P3PL-GEN	_	12	nmod:poss	_	_
+12	names	name	NOUN	PL-NOM	Number=Plur	13	nsubj	_	_
+13	appear	appear	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	in	in	ADP	_	_	17	case	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+16	chart	chart	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	legend	legend	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3657
+# text = When you move a field to the category area, the unique items of data are displayed as categories, or related groups of data.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	category	category	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	3	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	unique	unique	ADJ	POS	Degree=Pos	13	amod	_	_
+13	items	item	NOUN	PL-NOM	Number=Plur	17	nsubj:pass	_	_
+14	of	of	ADP	_	_	15	case	_	_
+15	data	data	NOUN	PL-NOM	Number=Sing	13	nmod	_	_
+16	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+17	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+18	as	as	ADP	_	_	19	case	_	_
+19	categories	category	NOUN	PL-NOM	Number=Plur	17	obl	_	SpaceAfter=No
+20	,	,	PUNCT	Comma	_	23	punct	_	_
+21	or	or	CCONJ	_	_	23	cc	_	_
+22	related	relate	ADJ	POS	Degree=Pos	23	amod	_	_
+23	groups	group	NOUN	PL-NOM	Number=Plur	19	conj	_	_
+24	of	of	ADP	_	_	25	case	_	_
+25	data	data	NOUN	PL-NOM	Number=Sing	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	Period	_	17	punct	_	_
+
+# sent_id = 3658
+# text = Each category consists of one point from each data series.
+1	Each	each	DET	TOT-SG	_	2	det	_	_
+2	category	category	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	consists	consist	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	of	of	ADP	_	_	6	case	_	_
+5	one	one	NUM	CARD-SG	NumType=Card	6	nummod	_	_
+6	point	point	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+7	from	from	ADP	_	_	10	case	_	_
+8	each	each	DET	TOT-SG	_	10	det	_	_
+9	data	data	NOUN	PL-NOM	Number=Sing	10	compound	_	_
+10	series	series	NOUN	SG-NOM	Number=Sing	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3659
+# text = Category labels usually appear across the x axis of the chart, although this can vary depending on the type of chart you are using.
+1	Category	category	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	labels	label	NOUN	PL-NOM	Number=Plur	4	nsubj	_	_
+3	usually	usually	ADV	_	_	4	advmod	_	_
+4	appear	appear	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	across	across	ADP	_	_	8	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	x	x	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	axis	axis	NOUN	SG-NOM	Number=Sing	4	obl	_	_
+9	of	of	ADP	_	_	11	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+11	chart	chart	NOUN	SG-NOM	Number=Sing	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Comma	_	16	punct	_	_
+13	although	although	SCONJ	_	_	16	mark	_	_
+14	this	this	PRON	DEM-SG	Number=Sing|PronType=Dem	16	nsubj	_	_
+15	can	can	AUX	PRES-AUX	VerbForm=Fin	16	aux	_	_
+16	vary	vary	VERB	INF	VerbForm=Inf	4	advcl	_	_
+17	depending	depend	VERB	ING	Tense=Pres|VerbForm=Part	16	advcl	_	_
+18	on	on	ADP	_	_	20	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+20	type	type	NOUN	SG-NOM	Number=Sing	17	obl	_	_
+21	of	of	ADP	_	_	22	case	_	_
+22	chart	chart	NOUN	SG-NOM	Number=Sing	20	nmod	_	_
+23	you	you	PRON	PERS-P2	_	25	nsubj	_	_
+24	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	using	use	VERB	ING	Tense=Pres|VerbForm=Part	20	acl:relcl	_	SpaceAfter=No
+26	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3660
+# text = Moving fields to the data area
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+3	to	to	ADP	_	_	6	case	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+5	data	data	NOUN	PL-NOM	Number=Sing	6	compound	_	_
+6	area	area	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+
+# sent_id = 3661
+# text = Data fields provide the values to be summarized in the chart.
+1	Data	data	NOUN	PL-NOM	Number=Sing	2	compound	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	3	nsubj	_	_
+3	provide	provide	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	values	value	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+6	to	to	PART	_	_	8	mark	_	_
+7	be	be	AUX	INF	VerbForm=Inf	8	aux:pass	_	_
+8	summarized	summarize	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+9	in	in	ADP	_	_	11	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+11	chart	chart	NOUN	SG-NOM	Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3662
+# text = When you move a field to the data area, the values from the field are used as the data that is measured in the chart.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	data	data	NOUN	PL-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	3	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+12	values	value	NOUN	PL-NOM	Number=Plur	17	nsubj:pass	_	_
+13	from	from	ADP	_	_	15	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+15	field	field	NOUN	SG-NOM	Number=Sing	12	nmod	_	_
+16	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+17	used	use	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+18	as	as	ADP	_	_	20	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+20	data	data	NOUN	SG-NOM	Number=Sing	17	obl	_	_
+21	that	that	SCONJ	_	_	23	mark	_	_
+22	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	_
+23	measured	measure	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+24	in	in	ADP	_	_	26	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+26	chart	chart	NOUN	SG-NOM	Number=Sing	23	obl	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	17	punct	_	_
+
+# sent_id = 3663
+# text = A filter field is similar to a page field in a Microsoft Excel PivotTable report.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+2	filter	filter	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	5	nsubj	_	_
+4	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	similar	similar	ADJ	POS	Degree=Pos	0	root	_	_
+6	to	to	ADP	_	_	9	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+8	page	page	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	field	field	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+10	in	in	ADP	_	_	15	case	_	_
+11	a	a	DET	IND-SG	Definite=Ind|PronType=Art	15	det	_	_
+12	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	15	compound	_	_
+13	Excel	Excel	PROPN	SG-NOM	Number=Sing	12	flat	_	_
+14	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	report	report	NOUN	SG-NOM	Number=Sing	9	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3664
+# text = For example, when you move a Product field to the filter area, you can have the chart display category and series values for one product at a time.
+1	For	for	ADV	_	Case=Nom	17	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	when	when	SCONJ	_	Case=Nom	6	mark	_	_
+5	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+6	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+8	Product	Product	PROPN	SG-NOM	Case=Nom	9	compound	_	_
+9	field	field	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+10	to	to	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	filter	filter	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	area	area	NOUN	SG-NOM	Number=Sing	6	obl	_	SpaceAfter=No
+14	,	,	PUNCT	Comma	_	6	punct	_	_
+15	you	you	PRON	PERS-P2	_	17	nsubj	_	_
+16	can	can	AUX	PRES-AUX	VerbForm=Fin	17	aux	_	_
+17	have	have	VERB	INF	VerbForm=Inf	0	root	_	_
+18	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+19	chart	chart	NOUN	SG-NOM	Number=Sing	17	obj	_	_
+20	display	display	VERB	INF	VerbForm=Inf	17	xcomp	_	_
+21	category	category	NOUN	SG-NOM	Number=Sing	20	compound	_	_
+22	and	and	CCONJ	_	_	23	cc	_	_
+23	series	series	NOUN	SG-NOM	Number=Sing	21	conj	_	_
+24	values	value	NOUN	PL-NOM	Number=Plur	20	obj	_	_
+25	for	for	ADP	_	_	27	case	_	_
+26	one	one	NUM	CARD-SG	NumType=Card	27	nummod	_	_
+27	product	product	NOUN	SG-NOM	Number=Sing	24	nmod	_	_
+28	at	at	ADP	_	_	30	case	_	_
+29	a	a	DET	IND-SG	Definite=Ind|PronType=Art	30	det	_	_
+30	time	time	NOUN	SG-NOM	Number=Sing	27	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	Period	_	17	punct	_	_
+
+# sent_id = 3665
+# text = Moving fields to the MultiChart area
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+3	to	to	ADP	_	_	6	case	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+5	MultiChart	multichart	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	area	area	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+
+# sent_id = 3666
+# text = For example, if you move the Salesperson field to the MultiChart area, a chart is created based on data for each salesperson in that field.
+1	For	for	ADV	_	Case=Nom	18	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	if	if	SCONJ	_	_	6	mark	_	_
+5	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+6	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	Salesperson	Salesperson	PROPN	SG-NOM	Case=Nom	9	compound	_	_
+9	field	field	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+10	to	to	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	MultiChart	multichart	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	area	area	NOUN	SG-NOM	Number=Sing	6	obl	_	SpaceAfter=No
+14	,	,	PUNCT	Comma	_	6	punct	_	_
+15	a	a	DET	IND-SG	Definite=Ind|PronType=Art	16	det	_	_
+16	chart	chart	NOUN	SG-NOM	Number=Sing	18	nsubj:pass	_	_
+17	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+18	created	create	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+19	based	base	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	_
+20	on	on	ADP	_	_	21	case	_	_
+21	data	data	NOUN	PL-NOM	Number=Sing	19	obl	_	_
+22	for	for	ADP	_	_	24	case	_	_
+23	each	each	DET	TOT-SG	_	24	det	_	_
+24	salesperson	salesperson	NOUN	SG-NOM	Number=Sing	21	nmod	_	_
+25	in	in	ADP	_	_	27	case	_	_
+26	that	that	DET	DEM-SG	Number=Sing|PronType=Dem	27	det	_	_
+27	field	field	NOUN	SG-NOM	Number=Sing	24	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	Period	_	18	punct	_	_
+
+# sent_id = 3667
+# text = In the following example, the Salesperson field is in the MultiChart area, but it's filtered so it displays individual charts for Buchanan and Davolio.
+1	In	in	ADP	_	_	4	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	following	follow	ADJ	ING	Case=Nom	4	amod	_	_
+4	example	example	NOUN	SG-NOM	Number=Sing	9	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	4	punct	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	Salesperson	Salesperson	PROPN	SG-NOM	Case=Nom	8	compound	_	_
+8	field	field	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_
+9	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	in	in	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	MultiChart	multichart	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	area	area	NOUN	SG-NOM	Number=Sing	9	obl	_	SpaceAfter=No
+14	,	,	PUNCT	Comma	_	9	punct	_	_
+15	but	but	CCONJ	_	_	18	cc	_	_
+16	it	it	PRON	PERS-SG	_	18	nsubj:pass	_	SpaceAfter=No
+17	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+18	filtered	filter	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	_
+19	so	so	ADV	_	_	21	mark	_	_
+20	it	it	PRON	PERS-SG	_	21	nsubj	_	_
+21	displays	display	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+22	individual	individual	ADJ	POS	Degree=Pos	23	amod	_	_
+23	charts	chart	NOUN	PL-NOM	Number=Plur	21	obj	_	_
+24	for	for	ADP	_	_	25	case	_	_
+25	Buchanan	Buchanan	PROPN	SG-NOM	Number=Sing	23	nmod	_	_
+26	and	and	CCONJ	_	_	27	cc	_	_
+27	Davolio	Davolio	PROPN	SG-NOM	Number=Sing	25	conj	_	SpaceAfter=No
+28	.	.	PUNCT	Period	_	9	punct	_	_
+
+# sent_id = 3668
+# text = Filtered Salesperson field in MultiChart area
+1	Filtered	filter	ADJ	PASS	Case=Nom	3	amod	_	_
+2	Salesperson	Salesperson	PROPN	SG-NOM	Case=Nom	3	compound	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	0	root	_	_
+4	in	in	ADP	_	_	6	case	_	_
+5	MultiChart	multichart	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	area	area	NOUN	SG-NOM	Number=Sing	3	nmod	_	_
+
+# sent_id = 3669
+# text = Moving the category or series fields to inner or outer levels
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+3	category	category	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+4	or	or	CCONJ	_	_	5	cc	_	_
+5	series	series	NOUN	SG-NOM	Number=Sing	3	conj	_	_
+6	fields	field	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+7	to	to	ADP	_	_	11	case	_	_
+8	inner	inner	ADJ	POS	Degree=Pos	11	amod	_	_
+9	or	or	CCONJ	_	_	10	cc	_	_
+10	outer	outer	ADJ	POS	Degree=Pos	8	conj	_	_
+11	levels	level	NOUN	PL-NOM	Number=Plur	1	obl	_	_
+
+# sent_id = 3670
+# text = When a chart contains multiple series or category fields, the fields that are closest to the data are referred to as inner fields.
+1	When	when	SCONJ	_	Case=Nom	4	mark	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+3	chart	chart	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	contains	contain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+5	multiple	multiple	ADJ	POS	Degree=Pos	6	amod	_	_
+6	series	series	NOUN	PL-NOM	Number=Sing	4	obj	_	_
+7	or	or	CCONJ	_	_	9	cc	_	_
+8	category	category	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	fields	field	NOUN	PL-NOM	Number=Plur	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	4	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+12	fields	field	NOUN	PL-NOM	Number=Plur	20	nsubj:pass	_	_
+13	that	that	PRON	_	PronType=Rel	15	nsubj	_	_
+14	are	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	closest	close	ADJ	SPL	Degree=Sup	12	acl:relcl	_	_
+16	to	to	ADP	_	_	18	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+18	data	data	NOUN	PL-NOM	Number=Sing	15	obl	_	_
+19	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	referred	refer	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+21	to	to	ADP	_	_	20	obl	_	_
+22	as	as	ADP	_	_	24	case	_	_
+23	inner	inner	ADJ	POS	Degree=Pos	24	amod	_	_
+24	fields	field	NOUN	PL-NOM	Number=Plur	20	obl	_	SpaceAfter=No
+25	.	.	PUNCT	Period	_	20	punct	_	_
+
+# sent_id = 3671
+# text = In the following example, Year is the outer field and Salesperson is the inner field.
+1	In	in	ADP	_	_	4	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	following	follow	ADJ	ING	Case=Nom	4	amod	_	_
+4	example	example	NOUN	SG-NOM	Number=Sing	10	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	4	punct	_	_
+6	Year	Year	PROPN	SG-NOM	Number=Sing	10	nsubj	_	_
+7	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+9	outer	outer	ADJ	POS	Degree=Pos	10	amod	_	_
+10	field	field	NOUN	SG-NOM	Number=Sing	0	root	_	_
+11	and	and	CCONJ	_	_	16	cc	_	_
+12	Salesperson	Salesperson	PROPN	SG-NOM	Case=Nom	16	nsubj	_	_
+13	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+15	inner	inner	ADJ	POS	Degree=Pos	16	amod	_	_
+16	field	field	NOUN	SG-NOM	Number=Sing	10	conj	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = 3672
+# text = The inner field items are displayed as salespeople's names, and the outer field items are displayed as the years 1997 and 1998.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+2	inner	inner	ADJ	POS	Degree=Pos	3	amod	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	items	item	NOUN	PL-NOM	Number=Plur	6	nsubj:pass	_	_
+5	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	as	as	ADP	_	_	10	case	_	_
+8	salespeople	salespeople	NOUN	PL	Number=Plur	10	nmod	_	SpaceAfter=No
+9	's	's	PART	GEN	_	8	case	_	_
+10	names	name	NOUN	PL-NOM	Number=Plur	6	obl	_	SpaceAfter=No
+11	,	,	PUNCT	Comma	_	18	punct	_	_
+12	and	and	CCONJ	_	_	18	cc	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+14	outer	outer	ADJ	POS	Degree=Pos	15	amod	_	_
+15	field	field	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	items	item	NOUN	PL-NOM	Number=Plur	18	nsubj:pass	_	_
+17	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+18	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	_
+19	as	as	ADP	_	_	22	case	_	_
+20	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+21	years	year	NOUN	PL-NOM	Number=Plur	22	nmod	_	_
+22	1997	1997	NUM	ID	NumType=Card	18	obl	_	_
+23	and	and	CCONJ	_	_	24	cc	_	_
+24	1998	1998	NUM	ID	NumType=Card	22	conj	_	SpaceAfter=No
+25	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3673
+# text = Multiple fields in a chart
+1	Multiple	multiple	ADJ	POS	Degree=Pos	2	amod	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	0	root	_	_
+3	in	in	ADP	_	_	5	case	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	chart	chart	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+
+# sent_id = 3674
+# text = 1 Inner field items
+1	1	1	NUM	ID	NumType=Card	4	discourse	_	_
+2	Inner	inner	ADJ	POS	Degree=Pos	3	amod	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	items	item	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = 3675
+# text = 2 Outer field items
+1	2	2	NUM	ID	NumType=Card	4	discourse	_	_
+2	Outer	outer	ADJ	POS	Degree=Pos	3	amod	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	items	item	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = 3676
+# text = You can expand and collapse multiple fields to show more or less information in a particular field.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	expand	expand	VERB	INF	VerbForm=Inf	0	root	_	_
+4	and	and	CCONJ	_	_	5	cc	_	_
+5	collapse	collapse	VERB	INF	Case=Nom	3	conj	_	_
+6	multiple	multiple	ADJ	POS	Degree=Pos	7	amod	_	_
+7	fields	field	NOUN	PL-NOM	Number=Plur	5	obj	_	_
+8	to	to	PART	_	_	9	mark	_	_
+9	show	show	VERB	INF	VerbForm=Inf	3	advcl	_	_
+10	more	much	ADJ	IND	Degree=Cmp	13	amod	_	_
+11	or	or	CCONJ	IND	_	10	fixed	_	_
+12	less	little	ADJ	IND	Degree=Cmp	10	fixed	_	_
+13	information	information	NOUN	SG-NOM	Number=Sing	9	obj	_	_
+14	in	in	ADP	_	_	17	case	_	_
+15	a	a	DET	IND-SG	Definite=Ind|PronType=Art	17	det	_	_
+16	particular	particular	ADJ	POS	Degree=Pos	17	amod	_	_
+17	field	field	NOUN	SG-NOM	Number=Sing	9	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3677
+# text = For example, you can collapse the outer field (Year) in the example so that the inner field items are no longer displayed.
+1	For	for	ADV	_	Case=Nom	6	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+5	can	can	AUX	PRES-AUX	VerbForm=Fin	6	aux	_	_
+6	collapse	collapse	VERB	INF	Case=Nom	0	root	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	outer	outer	ADJ	POS	Degree=Pos	9	amod	_	_
+9	field	field	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+10	(	(	PUNCT	LeftParenthesis	_	11	punct	_	SpaceAfter=No
+11	Year	year	NOUN	SG-NOM	Number=Sing	9	appos	_	SpaceAfter=No
+12	)	)	PUNCT	RightParenthesis	_	11	punct	_	_
+13	in	in	ADP	_	_	15	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+15	example	example	NOUN	SG-NOM	Number=Sing	9	nmod	_	_
+16	so	so	ADV	_	_	25	mark	_	_
+17	that	that	SCONJ	_	_	16	fixed	_	_
+18	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+19	inner	inner	ADJ	POS	Degree=Pos	20	amod	_	_
+20	field	field	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	items	item	NOUN	PL-NOM	Number=Plur	25	nsubj:pass	_	_
+22	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux:pass	_	_
+23	no	no	ADV	_	_	25	advmod	_	_
+24	longer	long	ADV	_	Degree=Cmp	23	fixed	_	_
+25	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	SpaceAfter=No
+26	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3678
+# text = Chart with collapsed field
+1	Chart	chart	NOUN	SG-NOM	Number=Sing	0	root	_	_
+2	with	with	ADP	_	_	4	case	_	_
+3	collapsed	collapse	ADJ	PASS	Degree=Pos	4	amod	_	_
+4	field	field	NOUN	SG-NOM	Number=Sing	1	nmod	_	_
+
+# sent_id = 3679
+# text = The layout of a chart does not have to include all fields that are available from the source data.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	layout	layout	NOUN	SG-NOM	Number=Sing	10	nsubj	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	chart	chart	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+6	does	do	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+7	not	not	PART	NEG	_	10	advmod	_	_
+8	have	have	AUX	INF-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	to	to	PART	_	_	10	mark	_	_
+10	include	include	VERB	INF	VerbForm=Inf	0	root	_	_
+11	all	all	DET	TOT-PL	_	12	det	_	_
+12	fields	field	NOUN	PL-NOM	Number=Plur	10	obj	_	_
+13	that	that	PRON	_	PronType=Rel	15	nsubj	_	_
+14	are	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	available	available	ADJ	POS	Degree=Pos	12	acl:relcl	_	_
+16	from	from	ADP	_	_	19	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+18	source	source	NOUN	SG-NOM	Number=Sing	19	compound	_	_
+19	data	data	NOUN	PL-NOM	Number=Sing	15	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = 3680
+# text = If more data is available, you can add fields to the chart.
+1	If	if	SCONJ	_	_	5	mark	_	_
+2	more	much	ADJ	CMP	Degree=Cmp	3	amod	_	_
+3	data	data	NOUN	PL-NOM	Number=Sing	5	nsubj	_	_
+4	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	available	available	ADJ	POS	Degree=Pos	9	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	5	punct	_	_
+7	you	you	PRON	PERS-P2	_	9	nsubj	_	_
+8	can	can	AUX	PRES-AUX	VerbForm=Fin	9	aux	_	_
+9	add	add	VERB	INF	VerbForm=Inf	0	root	_	_
+10	fields	field	NOUN	PL-NOM	Number=Plur	9	obj	_	_
+11	to	to	ADP	_	_	13	case	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+13	chart	chart	NOUN	SG-NOM	Number=Sing	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	9	punct	_	_
+
+# sent_id = 3681
+# text = For example, if the chart summarizes sales revenue, and the source data also includes sales quantities, you might add the Quantity field as a data field to summarize both revenue and quantity of products sold.
+1	For	for	ADV	_	Case=Nom	22	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	if	if	SCONJ	_	_	7	mark	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+6	chart	chart	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
+7	summarizes	summarize	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+8	sales	sale	NOUN	PL-NOM	Number=Plur	9	compound	_	_
+9	revenue	revenue	NOUN	SG-NOM	Number=Sing	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	16	punct	_	_
+11	and	and	CCONJ	_	_	16	cc	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+13	source	source	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	data	data	NOUN	PL-NOM	Number=Sing	16	nsubj	_	_
+15	also	also	ADV	_	_	16	advmod	_	_
+16	includes	include	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+17	sales	sale	NOUN	PL-NOM	Number=Plur	18	compound	_	_
+18	quantities	quantity	NOUN	PL-NOM	Number=Plur	16	obj	_	SpaceAfter=No
+19	,	,	PUNCT	Comma	_	16	punct	_	_
+20	you	you	PRON	PERS-P2	_	22	nsubj	_	_
+21	might	might	AUX	PAST-AUX	VerbForm=Fin	22	aux	_	_
+22	add	add	VERB	INF	VerbForm=Inf	0	root	_	_
+23	the	the	DET	DEF	Definite=Def|PronType=Art	25	det	_	_
+24	Quantity	quantity	NOUN	SG-NOM	Number=Sing	25	compound	_	_
+25	field	field	NOUN	SG-NOM	Number=Sing	22	obj	_	_
+26	as	as	ADP	_	_	29	case	_	_
+27	a	a	DET	IND-SG	Definite=Ind|PronType=Art	29	det	_	_
+28	data	data	NOUN	PL-NOM	Number=Sing	29	compound	_	_
+29	field	field	NOUN	SG-NOM	Number=Sing	22	obl	_	_
+30	to	to	PART	_	_	31	mark	_	_
+31	summarize	summarize	VERB	INF	VerbForm=Inf	22	advcl	_	_
+32	both	both	CCONJ	_	_	33	cc	_	_
+33	revenue	revenue	NOUN	SG-NOM	Number=Sing	31	obj	_	_
+34	and	and	CCONJ	_	_	35	cc	_	_
+35	quantity	quantity	NOUN	SG-NOM	Number=Sing	33	conj	_	_
+36	of	of	ADP	_	_	37	case	_	_
+37	products	product	NOUN	PL-NOM	Number=Plur	35	nmod	_	_
+38	sold	sell	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	37	acl	_	SpaceAfter=No
+39	.	.	PUNCT	Period	_	22	punct	_	_
+
+# sent_id = 3682
+# text = You can also remove fields from the chart layout that you no longer want to see.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	also	also	ADV	_	_	4	advmod	_	_
+4	remove	remove	VERB	INF	VerbForm=Inf	0	root	_	_
+5	fields	field	NOUN	PL-NOM	Number=Plur	4	obj	_	_
+6	from	from	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	chart	chart	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	layout	layout	NOUN	SG-NOM	Number=Sing	4	obl	_	_
+10	that	that	SCONJ	_	_	16	obj	_	_
+11	you	you	PRON	PERS-P2	_	14	nsubj	_	_
+12	no	no	ADV	_	_	14	advmod	_	_
+13	longer	long	ADV	_	Degree=Cmp	12	fixed	_	_
+14	want	want	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+15	to	to	PART	_	_	16	mark	_	_
+16	see	see	VERB	INF	VerbForm=Inf	14	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3683
+# text = Impact of changing layout on filtering
+1	Impact	impact	NOUN	SG-NOM	Number=Sing	0	root	_	_
+2	of	of	ADP	_	_	3	mark	_	_
+3	changing	change	VERB	ING	Tense=Pres|VerbForm=Part	1	acl	_	_
+4	layout	layout	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+5	on	on	ADP	_	_	6	case	_	_
+6	filtering	filtering	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+
+# sent_id = 3684
+# text = Filter settings are retained when you move or remove a field.
+1	Filter	filter	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	settings	setting	NOUN	PL-NOM	Number=Plur	4	nsubj:pass	_	_
+3	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	retained	retain	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	when	when	SCONJ	_	Case=Nom	7	mark	_	_
+6	you	you	PRON	PERS-P2	_	7	nsubj	_	_
+7	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	or	or	CCONJ	_	_	9	cc	_	_
+9	remove	remove	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	7	conj	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+11	field	field	NOUN	SG-NOM	Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3685
+# text = This means that when you move a series or category field to the filter area and back, previously hidden items are again hidden.
+1	This	this	PRON	DEM-SG	Number=Sing|PronType=Dem	2	nsubj	_	_
+2	means	mean	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	that	that	SCONJ	_	_	24	mark	_	_
+4	when	when	SCONJ	_	Case=Nom	6	mark	_	_
+5	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+6	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	24	advcl	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+8	series	series	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+9	or	or	CCONJ	_	_	10	cc	_	_
+10	category	category	NOUN	SG-NOM	Number=Sing	8	conj	_	_
+11	field	field	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+12	to	to	ADP	_	_	15	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+14	filter	filter	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	area	area	NOUN	SG-NOM	Number=Sing	6	obl	_	_
+16	and	and	CCONJ	_	_	17	cc	_	_
+17	back	back	NOUN	SG-NOM	Number=Sing	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	Comma	_	6	punct	_	_
+19	previously	previously	ADV	_	_	20	advmod	_	_
+20	hidden	hide	ADJ	PASS	Degree=Pos	21	amod	_	_
+21	items	item	NOUN	PL-NOM	Number=Plur	24	nsubj:pass	_	_
+22	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
+23	again	again	ADV	_	_	24	advmod	_	_
+24	hidden	hide	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	SpaceAfter=No
+25	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3686
+# text = If you remove a field and later add the field back to the layout, the same items are again hidden.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	remove	remove	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	and	and	CCONJ	_	_	8	cc	_	_
+7	later	late	ADV	CMP	_	8	advmod	_	_
+8	add	add	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	field	field	NOUN	SG-NOM	Number=Sing	8	obj	_	_
+11	back	back	ADV	_	_	8	advmod	_	_
+12	to	to	ADP	_	_	14	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+14	layout	layout	NOUN	SG-NOM	Number=Sing	8	obl	_	SpaceAfter=No
+15	,	,	PUNCT	Comma	_	3	punct	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+17	same	same	ADJ	POS	Degree=Pos	18	amod	_	_
+18	items	item	NOUN	PL-NOM	Number=Plur	21	nsubj:pass	_	_
+19	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
+20	again	again	ADV	_	_	21	advmod	_	_
+21	hidden	hide	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	Period	_	21	punct	_	_
+
+# sent_id = 3687
+# text = Restricting use of a chart
+1	Restricting	restrict	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	use	use	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	chart	chart	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+
+# sent_id = 3688
+# text = When you design a chart for other users, you can restrict the user's ability to change the layout of the chart by preventing fields from being added and moved.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	design	design	VERB	PRES	Case=Nom	12	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	chart	chart	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	for	for	ADP	_	_	8	case	_	_
+7	other	other	ADJ	POS	Degree=Pos	8	amod	_	_
+8	users	user	NOUN	PL-NOM	Number=Plur	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	3	punct	_	_
+10	you	you	PRON	PERS-P2	_	12	nsubj	_	_
+11	can	can	AUX	PRES-AUX	VerbForm=Fin	12	aux	_	_
+12	restrict	restrict	VERB	INF	VerbForm=Inf	0	root	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+14	user	user	NOUN	SG	Number=Sing	16	nmod	_	SpaceAfter=No
+15	's	's	PART	GEN	_	14	case	_	_
+16	ability	ability	NOUN	SG-NOM	Number=Sing	12	obj	_	_
+17	to	to	PART	_	_	18	mark	_	_
+18	change	change	VERB	INF	VerbForm=Inf	16	acl	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+20	layout	layout	NOUN	SG-NOM	Number=Sing	18	obj	_	_
+21	of	of	ADP	_	_	23	case	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+23	chart	chart	NOUN	SG-NOM	Number=Sing	20	nmod	_	_
+24	by	by	ADP	_	_	25	mark	_	_
+25	preventing	prevent	VERB	ING	Tense=Pres|VerbForm=Part	12	advcl	_	_
+26	fields	field	NOUN	PL-NOM	Number=Plur	25	obj	_	_
+27	from	from	SCONJ	_	_	29	mark	_	_
+28	being	be	AUX	ING	Tense=Pres|VerbForm=Part	29	aux:pass	_	_
+29	added	add	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	25	obl	_	_
+30	and	and	CCONJ	_	_	31	cc	_	_
+31	moved	move	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	29	conj	_	SpaceAfter=No
+32	.	.	PUNCT	Period	_	12	punct	_	_
+
+# sent_id = 3689
+# text = About the data outline
+1	About	about	ADP	_	_	4	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	data	data	NOUN	PL-NOM	Number=Sing	4	compound	_	_
+4	outline	outline	NOUN	SG-NOM	Number=Sing	0	root	_	_
+
+# sent_id = 3690
+# text = The data outline displays a tree view of the data model of a data access page.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	data	data	NOUN	PL-NOM	Number=Sing	3	compound	_	_
+3	outline	outline	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	displays	display	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+6	tree	tree	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	view	view	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+8	of	of	ADP	_	_	11	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+10	data	data	NOUN	PL-NOM	Number=Sing	11	compound	_	_
+11	model	model	NOUN	SG-NOM	Number=Sing	7	nmod	_	_
+12	of	of	ADP	_	_	16	case	_	_
+13	a	a	DET	IND-SG	Definite=Ind|PronType=Art	16	det	_	_
+14	data	data	NOUN	PL-NOM	Number=Sing	15	compound	_	_
+15	access	access	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	page	page	NOUN	SG-NOM	Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3691
+# text = It lists the record sources, fields, and calculated controls of a page.
+1	It	it	PRON	PERS-SG	_	2	nsubj	_	_
+2	lists	list	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+4	record	record	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	sources	source	NOUN	PL-NOM	Number=Plur	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	7	punct	_	_
+7	fields	field	NOUN	PL-NOM	Number=Plur	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	11	punct	_	_
+9	and	and	CCONJ	_	_	11	cc	_	_
+10	calculated	calculate	ADJ	PASS	Case=Nom	11	amod	_	_
+11	controls	control	NOUN	PL-NOM	Number=Plur	5	conj	_	_
+12	of	of	ADP	_	_	14	case	_	_
+13	a	a	DET	IND-SG	Definite=Ind|PronType=Art	14	det	_	_
+14	page	page	NOUN	SG-NOM	Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3692
+# text = Because the field list of a page does not show the contents specific to a page, you can use the data outline to review the structure of a page.
+1	Because	because	SCONJ	_	_	10	mark	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	list	list	NOUN	SG-NOM	Number=Sing	10	nsubj	_	_
+5	of	of	ADP	_	_	7	case	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+7	page	page	NOUN	SG-NOM	Number=Sing	4	nmod	_	_
+8	does	do	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	not	not	PART	NEG	_	10	advmod	_	_
+10	show	show	VERB	INF	VerbForm=Inf	20	advcl	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+12	contents	content	NOUN	PL-NOM	Number=Plur	10	obj	_	_
+13	specific	specific	ADJ	POS	Degree=Pos	12	amod	_	_
+14	to	to	ADP	_	_	16	case	_	_
+15	a	a	DET	IND-SG	Definite=Ind|PronType=Art	16	det	_	_
+16	page	page	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+17	,	,	PUNCT	Comma	_	10	punct	_	_
+18	you	you	PRON	PERS-P2	_	20	nsubj	_	_
+19	can	can	AUX	PRES-AUX	VerbForm=Fin	20	aux	_	_
+20	use	use	VERB	INF	VerbForm=Inf	0	root	_	_
+21	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+22	data	data	NOUN	PL-NOM	Number=Sing	23	compound	_	_
+23	outline	outline	NOUN	SG-NOM	Number=Sing	20	obj	_	_
+24	to	to	PART	_	_	25	mark	_	_
+25	review	review	VERB	INF	VerbForm=Inf	20	advcl	_	_
+26	the	the	DET	DEF	Definite=Def|PronType=Art	27	det	_	_
+27	structure	structure	NOUN	SG-NOM	Number=Sing	25	obj	_	_
+28	of	of	ADP	_	_	30	case	_	_
+29	a	a	DET	IND-SG	Definite=Ind|PronType=Art	30	det	_	_
+30	page	page	NOUN	SG-NOM	Number=Sing	27	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	Period	_	20	punct	_	_
+
+# sent_id = 3693
+# text = You can also select the objects displayed in the data outline, set their properties, define and edit relationships between record sources, and delete fields and record sources.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	also	also	ADV	_	_	4	advmod	_	_
+4	select	select	VERB	INF	VerbForm=Inf	0	root	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+6	objects	object	NOUN	PL-NOM	Case=Nom	4	obj	_	_
+7	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	6	acl:relcl	_	_
+8	in	in	ADP	_	_	11	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+10	data	data	NOUN	PL-NOM	Number=Sing	11	compound	_	_
+11	outline	outline	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	Comma	_	13	punct	_	_
+13	set	set	VERB	INF	VerbForm=Inf	4	conj	_	_
+14	their	they	PRON	P3PL-GEN	_	15	nmod:poss	_	_
+15	properties	property	NOUN	PL-NOM	Number=Plur	13	obj	_	SpaceAfter=No
+16	,	,	PUNCT	Comma	_	17	punct	_	_
+17	define	define	VERB	INF	VerbForm=Inf	4	conj	_	_
+18	and	and	CCONJ	_	_	19	cc	_	_
+19	edit	edit	VERB	INF	Case=Nom	17	conj	_	_
+20	relationships	relationship	NOUN	PL-NOM	Number=Plur	19	obj	_	_
+21	between	between	ADP	_	_	23	case	_	_
+22	record	record	NOUN	SG-NOM	Number=Sing	23	compound	_	_
+23	sources	source	NOUN	PL-NOM	Number=Plur	20	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	Comma	_	26	punct	_	_
+25	and	and	CCONJ	_	_	26	cc	_	_
+26	delete	delete	VERB	INF	VerbForm=Inf	4	conj	_	_
+27	fields	field	NOUN	PL-NOM	Number=Plur	30	compound	_	_
+28	and	and	CCONJ	_	_	29	cc	_	_
+29	record	record	NOUN	SG-NOM	Number=Sing	27	conj	_	_
+30	sources	source	NOUN	PL-NOM	Number=Plur	26	obj	_	SpaceAfter=No
+31	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3694
+# text = The following illustration shows the Orders page with two group levels.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	following	follow	ADJ	ING	Case=Nom	3	amod	_	_
+3	illustration	illustration	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	shows	show	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+6	Orders	Orders	PROPN	PL-NOM	Case=Nom	7	compound	_	_
+7	page	page	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+8	with	with	ADP	_	_	11	case	_	_
+9	two	two	NUM	CARD-PL	NumType=Card	11	nummod	_	_
+10	group	group	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	levels	level	NOUN	PL-NOM	Number=Plur	4	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3695
+# text = The inner group level contains fields from the OrderDetails table and a calculated control named Value.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+2	inner	inner	ADJ	POS	Degree=Pos	3	amod	_	_
+3	group	group	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	level	level	NOUN	SG-NOM	Number=Sing	5	nsubj	_	_
+5	contains	contain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	fields	field	NOUN	PL-NOM	Number=Plur	5	obj	_	_
+7	from	from	ADP	_	_	10	case	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+9	OrderDetails	OrderDetails	PROPN	SG-NOM	Number=Sing	10	compound	_	_
+10	table	table	NOUN	SG-NOM	Number=Sing	6	nmod	_	_
+11	and	and	CCONJ	_	_	14	cc	_	_
+12	a	a	DET	IND-SG	Definite=Ind|PronType=Art	14	det	_	_
+13	calculated	calculate	ADJ	PASS	Case=Nom	14	amod	_	_
+14	control	control	NOUN	SG-NOM	Number=Sing	10	conj	_	_
+15	named	name	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	14	acl:relcl	_	_
+16	Value	value	NOUN	SG-NOM	Number=Sing	15	obj	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3696
+# text = In the outer group level, the header section contains fields from the Orders table and the footer section contains a calculated total control named OrderValue.
+1	In	in	ADP	_	_	5	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+3	outer	outer	ADJ	POS	Degree=Pos	4	amod	_	_
+4	group	group	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	level	level	NOUN	SG-NOM	Number=Sing	10	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	5	punct	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	header	header	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	section	section	NOUN	SG-NOM	Number=Sing	10	nsubj	_	_
+10	contains	contain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	fields	field	NOUN	PL-NOM	Number=Plur	10	obj	_	_
+12	from	from	ADP	_	_	15	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+14	Orders	Orders	PROPN	PL-NOM	Case=Nom	15	compound	_	_
+15	table	table	NOUN	SG-NOM	Number=Sing	11	nmod	_	_
+16	and	and	CCONJ	_	_	20	cc	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+18	footer	footer	NOUN	SG-NOM	Number=Sing	19	compound	_	_
+19	section	section	NOUN	SG-NOM	Number=Sing	20	nsubj	_	_
+20	contains	contain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+21	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+22	calculated	calculate	ADJ	PASS	Case=Nom	24	amod	_	_
+23	total	total	ADJ	POS	Degree=Pos	24	amod	_	_
+24	control	control	NOUN	SG-NOM	Number=Sing	20	obj	_	_
+25	named	name	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	24	acl:relcl	_	_
+26	OrderValue	OrderValue	PROPN	SG-NOM	Number=Sing	25	obj	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = 3697
+# text = Data access page with two group levels
+1	Data	data	NOUN	PL-NOM	Number=Sing	2	compound	_	_
+2	access	access	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	page	page	NOUN	SG-NOM	Number=Sing	0	root	_	_
+4	with	with	ADP	_	_	7	case	_	_
+5	two	two	NUM	CARD-PL	NumType=Card	7	nummod	_	_
+6	group	group	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	levels	level	NOUN	PL-NOM	Number=Plur	3	nmod	_	_
+
+# sent_id = 3698
+# text = The following illustration shows the data outline for the Orders page.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	following	follow	ADJ	ING	Case=Nom	3	amod	_	_
+3	illustration	illustration	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	shows	show	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+6	data	data	NOUN	PL-NOM	Number=Sing	7	compound	_	_
+7	outline	outline	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+8	for	for	ADP	_	_	11	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+10	Orders	Orders	PROPN	PL-NOM	Case=Nom	11	compound	_	_
+11	page	page	NOUN	SG-NOM	Number=Sing	7	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3699
+# text = Data outline for Orders page
+1	Data	data	NOUN	PL-NOM	Number=Sing	2	compound	_	_
+2	outline	outline	NOUN	SG-NOM	Number=Sing	0	root	_	_
+3	for	for	ADP	_	_	5	case	_	_
+4	Orders	Orders	PROPN	PL-NOM	Case=Nom	5	compound	_	_
+5	page	page	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+
+# sent_id = 3700
+# text = 1 The RecordsetDef object, which contains one or more record sources
+1	1	1	NUM	ID	NumType=Card	4	discourse	_	_
+2	The	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	RecordsetDef	RecordsetDef	PROPN	SG-NOM	Number=Sing	4	compound	_	_
+4	object	object	NOUN	SG-NOM	Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	7	punct	_	_
+6	which	which	PRON	WH-REL	PronType=Int	7	nsubj	_	_
+7	contains	contain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	one	one	NUM	CARD-PL	NumType=Card	11	nummod	_	_
+9	or	or	CCONJ	CARD-PL	_	8	fixed	_	_
+10	more	very	ADV	CARD-PL	_	8	fixed	_	_
+11	record	record	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	sources	source	NOUN	PL-NOM	Number=Plur	7	obj	_	_
+
+# sent_id = 3701
+# text = 2 The underlying record sources
+1	2	2	NUM	ID	NumType=Card	5	discourse	_	_
+2	The	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+3	underlying	underlie	ADJ	PASS	Degree=Pos	5	amod	_	_
+4	record	record	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	sources	source	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = 3702
+# text = 3 Primary key fields
+1	3	3	NUM	ID	NumType=Card	4	discourse	_	_
+2	Primary	primary	ADJ	POS	Degree=Pos	3	amod	_	_
+3	key	key	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	fields	field	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = 3703
+# text = 4 Data fields
+1	4	4	NUM	ID	NumType=Card	3	discourse	_	_
+2	Data	data	NOUN	PL-NOM	Number=Sing	3	compound	_	_
+3	fields	field	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = 3704
+# text = 5 Aggregate field
+1	5	5	NUM	ID	NumType=Card	3	discourse	_	_
+2	Aggregate	aggregate	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	0	root	_	_
+
+# sent_id = 3705
+# text = 6 Calculated field
+1	6	6	NUM	ID	NumType=Card	3	discourse	_	_
+2	Calculated	calculate	ADJ	PASS	Case=Nom	3	amod	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	0	root	_	_
+
+# sent_id = 3706
+# text = About enabling the System Administrator (SA) user name in an Access project
+1	About	about	ADP	_	_	2	mark	_	_
+2	enabling	enable	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+4	System	system	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	Administrator	administrator	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+6	(	(	PUNCT	LeftParenthesis	_	7	punct	_	SpaceAfter=No
+7	SA	sa	X	NOM	_	5	appos	_	SpaceAfter=No
+8	)	)	PUNCT	RightParenthesis	_	7	punct	_	_
+9	user	user	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	name	name	NOUN	SG-NOM	Number=Sing	2	obj	_	_
+11	in	in	ADP	_	_	14	case	_	_
+12	an	an	DET	IND-SG	Definite=Ind|PronType=Art	14	det	_	_
+13	Access	Access	PROPN	SG-NOM	Case=Nom	14	compound	_	_
+14	project	project	NOUN	SG-NOM	Number=Sing	2	obl	_	_
+
+# sent_id = 3707
+# text = Note
+1	Note	note	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+
+# sent_id = 3708
+# text = The hyperlink in this topic goes to the Web.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	hyperlink	hyperlink	NOUN	SG-NOM	Number=Sing	6	nsubj	_	_
+3	in	in	ADP	_	_	5	case	_	_
+4	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	5	det	_	_
+5	topic	topic	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+6	goes	go	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	to	to	ADP	_	_	9	case	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	Web	web	NOUN	SG-NOM	Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3709
+# text = You can switch back to Help at any time.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	switch	switch	VERB	INF	Case=Nom	0	root	_	_
+4	back	back	ADV	_	_	3	advmod	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Help	Help	PROPN	SG-NOM	Case=Nom	3	obl	_	_
+7	at	at	ADP	_	_	9	case	_	_
+8	any	any	DET	IND	_	9	det	_	_
+9	time	time	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3710
+# text = When the Microsoft SQL Server 2000 Desktop Engine (formerly called the Microsoft Database Engine or MSDE) is installed on Microsoft Windows NT computers, it is installed with Windows NT Authentication implemented (this feature is also known as integrated security).
+1	When	when	SCONJ	_	Case=Nom	20	mark	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+3	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	8	compound	_	_
+4	SQL	SQL	PROPN	SG-NOM	Number=Sing	8	compound	_	_
+5	Server	server	NOUN	SG-NOM	Number=Sing	3	flat	_	_
+6	2000	2000	NUM	ID	NumType=Card	4	nummod	_	_
+7	Desktop	desktop	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	Engine	engine	NOUN	SG-NOM	Number=Sing	20	nsubj:pass	_	_
+9	(	(	PUNCT	LeftParenthesis	_	11	punct	_	SpaceAfter=No
+10	formerly	formerly	ADV	_	_	11	advmod	_	_
+11	called	call	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	8	parataxis	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+13	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	15	compound	_	_
+14	Database	database	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	Engine	engine	NOUN	SG-NOM	Number=Sing	11	xcomp	_	_
+16	or	or	CCONJ	_	_	17	cc	_	_
+17	MSDE	msde	X	NOM	_	15	conj	_	SpaceAfter=No
+18	)	)	PUNCT	RightParenthesis	_	11	punct	_	_
+19	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	installed	install	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	29	advcl	_	_
+21	on	on	ADP	_	_	23	case	_	_
+22	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	20	compound	_	_
+23	Windows	Windows	PROPN	SG-NOM	Case=Nom	22	flat	_	_
+24	NT	NT	PROPN	SG-NOM	Case=Nom	22	flat	_	_
+25	computers	computer	NOUN	PL-NOM	Number=Plur	20	obl	_	SpaceAfter=No
+26	,	,	PUNCT	Comma	_	20	punct	_	_
+27	it	it	PRON	PERS-SG	_	29	nsubj:pass	_	_
+28	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	_	_
+29	installed	install	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+30	with	with	ADP	_	_	33	case	_	_
+31	Windows	Windows	PROPN	SG-NOM	Case=Nom	33	compound	_	_
+32	NT	NT	PROPN	SG-NOM	Case=Nom	31	flat	_	_
+33	Authentication	authentication	NOUN	SG-NOM	Number=Sing	29	obl	_	_
+34	implemented	implement	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	33	acl	_	_
+35	(	(	PUNCT	LeftParenthesis	_	40	punct	_	SpaceAfter=No
+36	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	37	det	_	_
+37	feature	feature	NOUN	SG-NOM	Case=Nom	40	nsubj:pass	_	_
+38	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	aux:pass	_	_
+39	also	also	ADV	_	_	40	advmod	_	_
+40	known	know	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	29	appos	_	_
+41	as	as	ADP	_	_	43	case	_	_
+42	integrated	integrate	ADJ	PASS	Degree=Pos	43	amod	_	_
+43	security	security	NOUN	SG-NOM	Number=Sing	40	obl	_	SpaceAfter=No
+44	)	)	PUNCT	RightParenthesis	_	40	punct	_	SpaceAfter=No
+45	.	.	PUNCT	Period	_	29	punct	_	_
+
+# sent_id = 3711
+# text = Text fields
+1	Text	text	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = 3712
+# text = You can group based on the first n characters of the individual items.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	group	group	VERB	INF	Case=Nom	0	root	_	_
+4	based	base	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	_
+5	on	on	ADP	_	_	9	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+7	first	first	ADJ	ORD	Degree=Pos|NumType=Ord	9	amod	_	_
+8	n	n	NUM	CARD-PL	Case=Nom	9	nummod	_	_
+9	characters	character	NOUN	PL-NOM	Number=Plur	4	obl	_	_
+10	of	of	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	individual	individual	ADJ	POS	Degree=Pos	13	amod	_	_
+13	items	item	NOUN	PL-NOM	Number=Plur	9	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3713
+# text = For example, you can group the LastName field by first letter to create groups, such as A, B, and so on.
+1	For	for	ADV	_	Case=Nom	6	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+5	can	can	AUX	PRES-AUX	VerbForm=Fin	6	aux	_	_
+6	group	group	VERB	INF	Case=Nom	0	root	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	LastName	lastname	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	field	field	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+10	by	by	ADP	_	_	12	case	_	_
+11	first	first	ADJ	ORD	Degree=Pos|NumType=Ord	12	amod	_	_
+12	letter	letter	NOUN	SG-NOM	Number=Sing	6	obl	_	_
+13	to	to	PART	_	_	14	mark	_	_
+14	create	create	VERB	INF	VerbForm=Inf	12	acl	_	_
+15	groups	group	NOUN	PL-NOM	Number=Plur	14	obj	_	SpaceAfter=No
+16	,	,	PUNCT	Comma	_	19	punct	_	_
+17	such	such	PRON	ADJ	Case=Nom	19	case	_	_
+18	as	as	ADP	_	_	17	fixed	_	_
+19	A	A	NOUN	SG-NOM	Number=Sing	15	appos	_	SpaceAfter=No
+20	,	,	PUNCT	Comma	_	21	punct	_	_
+21	B	B	NOUN	SG-NOM	Number=Sing	19	conj	_	SpaceAfter=No
+22	,	,	PUNCT	Comma	_	23	punct	_	_
+23	and	and	CCONJ	_	_	19	conj	_	_
+24	so	so	ADV	_	_	23	fixed	_	_
+25	on	on	ADP	_	_	23	fixed	_	SpaceAfter=No
+26	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3714
+# text = You can specify the start and end values for the grouping range.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	specify	specify	VERB	INF	VerbForm=Inf	0	root	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+5	start	start	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+6	and	and	CCONJ	_	_	7	cc	_	_
+7	end	end	NOUN	SG-NOM	Number=Sing	5	conj	_	_
+8	values	value	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+9	for	for	ADP	_	_	12	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+11	grouping	group	ADJ	ING	Degree=Pos	12	amod	_	_
+12	range	range	NOUN	SG-NOM	Number=Sing	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3715
+# text = For example, if you specify the start range as 01-Jul-1999 while grouping the ShippedDate field in weekly intervals, the following groups will be created:
+1	For	for	ADV	_	Case=Nom	26	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	if	if	SCONJ	_	_	6	mark	_	_
+5	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+6	specify	specify	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	start	start	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	range	range	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+10	as	as	ADP	_	_	11	case	_	_
+11	01-Jul-1999	01-jul-1999	NUM	ID	_	6	obl	_	_
+12	while	while	SCONJ	_	_	13	mark	_	_
+13	grouping	group	VERB	ING	Tense=Pres|VerbForm=Part	6	advcl	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+15	ShippedDate	shippeddate	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	field	field	NOUN	SG-NOM	Number=Sing	13	obj	_	_
+17	in	in	ADP	_	_	19	case	_	_
+18	weekly	weekly	ADJ	POS	Degree=Pos	19	amod	_	_
+19	intervals	interval	NOUN	PL-NOM	Number=Plur	13	obl	_	SpaceAfter=No
+20	,	,	PUNCT	Comma	_	6	punct	_	_
+21	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+22	following	follow	ADJ	ING	Case=Nom	23	amod	_	_
+23	groups	group	NOUN	PL-NOM	Number=Plur	26	nsubj:pass	_	_
+24	will	will	AUX	PRES-AUX	VerbForm=Fin	26	aux:pass	_	_
+25	be	be	AUX	INF	VerbForm=Inf	26	aux:pass	_	_
+26	created	create	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+27	:	:	PUNCT	Colon	_	26	punct	_	_
+
+# sent_id = 3716
+# text = 01-Jul-1999, 01-Jul-1999, 08-Jul-1999,.
+1	01-Jul-1999	01-jul-1999	NUM	ID	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	01-Jul-1999	01-jul-1999	NUM	ID	_	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	3	punct	_	_
+5	08-Jul-1999	08-jul-1999	NUM	ID	_	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = 3717
+# text = Dates prior to 01-Jul-1999 are grouped into a single group titled 01-Jul-1999.
+1	Dates	date	NOUN	PL-NOM	Number=Plur	6	nsubj:pass	_	_
+2	prior	prior	ADP	_	Case=Nom	4	case	_	_
+3	to	to	ADP	_	_	2	fixed	_	_
+4	01-Jul-1999	01-jul-1999	NUM	ID	_	1	nummod	_	_
+5	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	grouped	group	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	into	into	ADP	_	_	10	case	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+9	single	single	ADJ	POS	Degree=Pos	10	amod	_	_
+10	group	group	NOUN	SG-NOM	Number=Sing	6	obl	_	_
+11	titled	title	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	10	acl:relcl	_	_
+12	01-Jul-1999	01-jul-1999	NUM	ID	_	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3718
+# text = If you also specify the end value as 31-Dec-1999, the following groups will be created:
+1	If	if	SCONJ	_	_	4	mark	_	_
+2	you	you	PRON	PERS-P2	_	4	nsubj	_	_
+3	also	also	ADV	_	_	4	advmod	_	_
+4	specify	specify	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+6	end	end	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	value	value	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+8	as	as	ADP	_	_	9	case	_	_
+9	31-Dec-1999	31-dec-1999	NUM	ID	_	4	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	4	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	following	follow	ADJ	ING	Case=Nom	13	amod	_	_
+13	groups	group	NOUN	PL-NOM	Number=Plur	16	nsubj:pass	_	_
+14	will	will	AUX	PRES-AUX	VerbForm=Fin	16	aux:pass	_	_
+15	be	be	AUX	INF	VerbForm=Inf	16	aux:pass	_	_
+16	created	create	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+17	:	:	PUNCT	Colon	_	16	punct	_	_
+
+# sent_id = 3719
+# text = 31-Dec-1999
+1	31-Dec-1999	31-dec-1999	NUM	ID	_	0	root	_	_
+
+# sent_id = 3720
+# text = 31-Dec-1999, 31-Dec-1999
+1	31-Dec-1999	31-dec-1999	NUM	ID	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	31-Dec-1999	31-dec-1999	NUM	ID	_	1	conj	_	_
+
+# sent_id = 3721
+# text = Dates that fall after 31-Dec-1999 are grouped into a single group titled 31-Dec-1999.
+1	Dates	date	NOUN	PL-NOM	Number=Plur	7	nsubj:pass	_	_
+2	that	that	PRON	REL	PronType=Rel	3	nsubj	_	_
+3	fall	fall	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	after	after	ADP	_	_	5	case	_	_
+5	31-Dec-1999	31-dec-1999	NUM	ID	_	3	obl	_	_
+6	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	grouped	group	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	into	into	ADP	_	_	11	case	_	_
+9	a	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+10	single	single	ADJ	POS	Degree=Pos	11	amod	_	_
+11	group	group	NOUN	SG-NOM	Number=Sing	7	obl	_	_
+12	titled	title	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	11	acl:relcl	_	_
+13	31-Dec-1999	31-dec-1999	NUM	ID	_	12	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3722
+# text = Custom grouping in PivotTable view
+1	Custom	custom	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	grouping	group	NOUN	SG-NOM	Number=Sing	0	root	_	_
+3	in	in	ADP	_	_	5	case	_	_
+4	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	view	view	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+
+# sent_id = 3723
+# text = You can randomly select items from a row or column field and group them into higher-level groups.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	randomly	randomly	ADV	_	_	4	advmod	_	_
+4	select	select	VERB	INF	VerbForm=Inf	0	root	_	_
+5	items	item	NOUN	PL-NOM	Number=Plur	4	obj	_	_
+6	from	from	ADP	_	_	11	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+8	row	row	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+9	or	or	CCONJ	_	_	10	cc	_	_
+10	column	column	NOUN	SG-NOM	Number=Sing	8	conj	_	_
+11	field	field	NOUN	SG-NOM	Number=Sing	4	obl	_	_
+12	and	and	CCONJ	_	_	13	cc	_	_
+13	group	group	VERB	INF	Case=Nom	4	conj	_	_
+14	them	they	PRON	PERS-P3PL-ACC	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
+15	into	into	ADP	_	_	17	case	_	_
+16	higher-level	higher-level	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	groups	group	NOUN	PL-NOM	Number=Plur	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3724
+# text = For example, you can select from the Promotions row field all the promotions that run for a specific period and create a group.
+1	For	for	ADV	_	Case=Nom	6	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+5	can	can	AUX	PRES-AUX	VerbForm=Fin	6	aux	_	_
+6	select	select	VERB	INF	VerbForm=Inf	0	root	_	_
+7	from	from	ADP	_	_	11	case	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+9	Promotions	promotion	NOUN	PL-NOM	Number=Plur	11	compound	_	_
+10	row	row	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	field	field	NOUN	SG-NOM	Number=Sing	6	obl	_	_
+12	all	all	DET	TOT-PL	_	14	det	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+14	promotions	promotion	NOUN	PL-NOM	Number=Plur	6	obj	_	_
+15	that	that	PRON	REL	PronType=Rel	16	nsubj	_	_
+16	run	run	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+17	for	for	ADP	_	_	20	case	_	_
+18	a	a	DET	IND-SG	Definite=Ind|PronType=Art	20	det	_	_
+19	specific	specific	ADJ	POS	Degree=Pos	20	amod	_	_
+20	period	period	NOUN	SG-NOM	Number=Sing	16	obl	_	_
+21	and	and	CCONJ	_	_	22	cc	_	_
+22	create	create	VERB	INF	VerbForm=Inf	6	conj	_	_
+23	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+24	group	group	NOUN	SG-NOM	Number=Sing	22	obj	_	SpaceAfter=No
+25	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3725
+# text = This would add a new row field named Promotions 2 above the Promotions row field with two members: Group1 and Other.
+1	This	this	PRON	DEM-SG	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	would	would	AUX	PAST-AUX	VerbForm=Fin	3	aux	_	_
+3	add	add	VERB	INF	VerbForm=Inf	0	root	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+5	new	new	ADJ	POS	Degree=Pos	6	amod	_	_
+6	row	row	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+8	named	name	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+9	Promotions	promotion	NOUN	PL-NOM	Number=Plur	8	xcomp	_	_
+10	2	2	NUM	ID	NumType=Card	9	nummod	_	_
+11	above	above	ADP	_	_	15	case	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+13	Promotions	promotion	NOUN	PL-NOM	Number=Plur	15	compound	_	_
+14	row	row	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	field	field	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+16	with	with	ADP	_	_	18	case	_	_
+17	two	two	NUM	CARD-PL	NumType=Card	18	nummod	_	_
+18	members	member	NOUN	PL-NOM	Number=Plur	7	nmod	_	SpaceAfter=No
+19	:	:	PUNCT	Colon	_	18	punct	_	_
+20	Group1	Group1	PROPN	SG-NOM	Number=Sing	18	appos	_	_
+21	and	and	CCONJ	_	_	22	cc	_	_
+22	Other	Other	PROPN	SG-NOM	Case=Nom	20	conj	_	SpaceAfter=No
+23	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3726
+# text = You can change the caption of Group 1 to Fixed and Promotions 2 to Category in the Properties dialog box.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	change	change	VERB	INF	VerbForm=Inf	0	root	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	caption	caption	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	of	of	ADP	_	_	7	case	_	_
+7	Group	group	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+8	1	1	NUM	ID	NumType=Card	7	nummod	_	_
+9	to	to	ADP	_	_	10	mark	_	_
+10	Fixed	fix	PROPN	SG-NOM	Number=Sing	3	obl	_	_
+11	and	and	CCONJ	_	_	12	cc	_	_
+12	Promotions	promotion	NOUN	PL-NOM	Number=Plur	3	conj	_	_
+13	2	2	NUM	ID	NumType=Card	12	nummod	_	_
+14	to	to	ADP	_	_	15	case	_	_
+15	Category	category	NOUN	SG-NOM	Number=Sing	12	orphan	_	_
+16	in	in	ADP	_	_	20	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+18	Properties	property	NOUN	PL-NOM	Number=Plur	20	compound	_	_
+19	dialog	dialog	NOUN	SG-NOM	Number=Sing	20	compound	_	_
+20	box	box	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3727
+# text = The Other group will contain all items that you did not include in the Fixed custom group.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	Other	Other	PROPN	SG-NOM	Case=Nom	5	compound	_	_
+3	group	group	NOUN	SG-NOM	Number=Sing	5	nsubj	_	_
+4	will	will	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+5	contain	contain	VERB	INF	VerbForm=Inf	0	root	_	_
+6	all	all	DET	TOT-PL	_	7	det	_	_
+7	items	item	NOUN	PL-NOM	Number=Plur	5	obj	_	_
+8	that	that	PRON	REL	PronType=Rel	12	obj	_	_
+9	you	you	PRON	PERS-P2	_	12	nsubj	_	_
+10	did	do	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux	_	_
+11	not	not	PART	NEG	_	12	advmod	_	_
+12	include	include	VERB	INF	VerbForm=Inf	7	acl:relcl	_	_
+13	in	in	ADP	_	_	17	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+15	Fixed	Fixed	PROPN	SG-NOM	Case=Nom	17	compound	_	_
+16	custom	custom	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	group	group	NOUN	SG-NOM	Number=Sing	12	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3728
+# text = You can then select all the popular promotions from the Other group and create a new custom group that will be captioned Popular.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	then	then	ADV	_	PronType=Dem	4	advmod	_	_
+4	select	select	VERB	INF	VerbForm=Inf	0	root	_	_
+5	all	all	DET	TOT-PL	_	8	det	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	popular	popular	ADJ	POS	Degree=Pos	8	amod	_	_
+8	promotions	promotion	NOUN	PL-NOM	Number=Plur	4	obj	_	_
+9	from	from	ADP	_	_	12	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+11	Other	Other	PROPN	SG-NOM	Case=Nom	12	compound	_	_
+12	group	group	NOUN	SG-NOM	Number=Sing	4	obl	_	_
+13	and	and	CCONJ	_	_	14	cc	_	_
+14	create	create	VERB	INF	VerbForm=Inf	4	conj	_	_
+15	a	a	DET	IND-SG	Definite=Ind|PronType=Art	18	det	_	_
+16	new	new	ADJ	POS	Degree=Pos	18	amod	_	_
+17	custom	custom	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	group	group	NOUN	SG-NOM	Number=Sing	14	obj	_	_
+19	that	that	PRON	REL	PronType=Rel	22	nsubj:pass	_	_
+20	will	will	AUX	PRES-AUX	VerbForm=Fin	22	aux:pass	_	_
+21	be	be	AUX	INF	VerbForm=Inf	22	aux:pass	_	_
+22	captioned	caption	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	18	acl:relcl	_	_
+23	Popular	Popular	PROPN	SG-NOM	Case=Nom	22	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3729
+# text = After you do this, the Category field will have three members: Fixed, Popular, and Other.
+1	After	after	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	do	do	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	this	this	PRON	DEM-SG	Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	3	punct	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	Category	category	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	field	field	NOUN	SG-NOM	Number=Sing	10	nsubj	_	_
+9	will	will	AUX	PRES-AUX	VerbForm=Fin	10	aux	_	_
+10	have	have	VERB	INF	VerbForm=Inf	0	root	_	_
+11	three	three	NUM	CARD-PL	NumType=Card	12	nummod	_	_
+12	members	member	NOUN	PL-NOM	Number=Plur	10	obj	_	SpaceAfter=No
+13	:	:	PUNCT	Colon	_	14	punct	_	_
+14	Fixed	Fixed	PROPN	SG-NOM	Case=Nom	12	appos	_	SpaceAfter=No
+15	,	,	PUNCT	Comma	_	16	punct	_	_
+16	Popular	Popular	PROPN	SG-NOM	Case=Nom	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	Comma	_	19	punct	_	_
+18	and	and	CCONJ	_	_	19	cc	_	_
+19	Other	Other	PROPN	SG-NOM	Case=Nom	14	conj	_	SpaceAfter=No
+20	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = 3730
+# text = The following illustration shows how the PivotTable view will look after the captions of the custom group field and custom groups have been changed.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	following	follow	ADJ	ING	Case=Nom	3	amod	_	_
+3	illustration	illustration	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	shows	show	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	how	how	ADV	WH	PronType=Int	10	advmod	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	view	view	NOUN	SG-NOM	Number=Sing	10	nsubj	_	_
+9	will	will	AUX	PRES-AUX	VerbForm=Fin	10	aux	_	_
+10	look	look	VERB	INF	VerbForm=Inf	4	ccomp	_	_
+11	after	after	SCONJ	_	_	24	mark	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+13	captions	caption	NOUN	PL-NOM	Number=Plur	24	nsubj:pass	_	_
+14	of	of	ADP	_	_	18	case	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+16	custom	custom	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	group	group	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	field	field	NOUN	SG-NOM	Number=Sing	13	nmod	_	_
+19	and	and	CCONJ	_	_	21	cc	_	_
+20	custom	custom	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	groups	group	NOUN	PL-NOM	Number=Plur	18	conj	_	_
+22	have	have	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
+23	been	be	AUX	PERF	Tense=Past|VerbForm=Part	24	aux:pass	_	_
+24	changed	change	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	_	SpaceAfter=No
+25	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3731
+# text = PivotTable view with custom groups
+1	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	view	view	NOUN	SG-NOM	Number=Sing	0	root	_	_
+3	with	with	ADP	_	_	5	case	_	_
+4	custom	custom	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	groups	group	NOUN	PL-NOM	Number=Plur	2	nmod	_	_
+
+# sent_id = 3732
+# text = A custom group field.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+2	custom	custom	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	group	group	VERB	PRES	Case=Nom	4	compound	_	_
+4	field	field	NOUN	SG-NOM	Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3733
+# text = Contains custom groups as its items and appears as the parent of the field whose items you grouped.
+1	Contains	contain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	custom	custom	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	groups	group	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+4	as	as	ADP	_	_	6	case	_	_
+5	its	it	PRON	SG-GEN	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+6	items	item	NOUN	PL-NOM	Number=Plur	1	obl	_	_
+7	and	and	CCONJ	_	_	8	cc	_	_
+8	appears	appear	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	as	as	ADP	_	_	11	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+11	parent	parent	NOUN	SG-NOM	Number=Sing	8	obl	_	_
+12	of	of	ADP	_	_	14	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+14	field	field	NOUN	SG-NOM	Number=Sing	11	nmod	_	_
+15	whose	who	PRON	WH-GEN	Poss=Yes|PronType=Int	16	nmod:poss	_	_
+16	items	item	NOUN	PL-NOM	Number=Plur	18	obj	_	_
+17	you	you	PRON	PERS-P2	_	18	nsubj	_	_
+18	grouped	group	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = 3734
+# text = Custom groups.
+1	Custom	custom	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	groups	group	NOUN	PL-NOM	Number=Plur	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3735
+# text = Appear as the parents of items you explicitly selected to create the groups.
+1	Appear	appear	VERB	INF	VerbForm=Inf	0	root	_	_
+2	as	as	ADP	_	_	4	case	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+4	parents	parent	NOUN	PL-NOM	Number=Plur	1	obl	_	_
+5	of	of	ADP	_	_	6	case	_	_
+6	items	item	NOUN	PL-NOM	Number=Plur	4	nmod	_	_
+7	you	you	PRON	PERS-P2	_	9	nsubj	_	_
+8	explicitly	explicitly	ADV	_	_	9	advmod	_	_
+9	selected	select	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+10	to	to	PART	_	_	11	mark	_	_
+11	create	create	VERB	INF	VerbForm=Inf	9	xcomp	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+13	groups	group	NOUN	PL-NOM	Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = 3736
+# text = 3 The Other group is the parent of the items you did not assign to any specific custom group.
+1	3	3	NUM	ID	NumType=Card	7	discourse	_	_
+2	The	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	Other	Other	PROPN	SG-NOM	Case=Nom	4	compound	_	_
+4	group	group	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
+5	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+7	parent	parent	NOUN	SG-NOM	Number=Sing	0	root	_	_
+8	of	of	ADP	_	_	10	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	items	item	NOUN	PL-NOM	Number=Plur	7	nmod	_	_
+11	you	you	PRON	PERS-P2	_	14	nsubj	_	_
+12	did	do	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	_
+13	not	not	PART	NEG	_	14	advmod	_	_
+14	assign	assign	VERB	INF	VerbForm=Inf	10	acl:relcl	_	_
+15	to	to	ADP	_	_	19	case	_	_
+16	any	any	DET	IND	_	19	det	_	_
+17	specific	specific	ADJ	POS	Degree=Pos	19	amod	_	_
+18	custom	custom	NOUN	SG-NOM	Number=Sing	19	compound	_	_
+19	group	group	NOUN	SG-NOM	Number=Sing	14	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3737
+# text = Creating and deleting custom groups and custom group fields
+1	Creating	create	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	and	and	CCONJ	_	_	3	cc	_	_
+3	deleting	delete	VERB	ING	Tense=Pres|VerbForm=Part	1	conj	_	_
+4	custom	custom	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	groups	group	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+6	and	and	CCONJ	_	_	9	cc	_	_
+7	custom	custom	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	group	group	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	fields	field	NOUN	PL-NOM	Number=Plur	5	conj	_	_
+
+# sent_id = 3738
+# text = You can not group items that belong to different fields or items that belong to parent items into a custom group.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	not	not	PART	NEG	_	4	advmod	_	_
+4	group	group	VERB	INF	Case=Nom	0	root	_	_
+5	items	item	NOUN	PL-NOM	Number=Plur	4	obj	_	_
+6	that	that	PRON	REL	PronType=Rel	7	nsubj	_	_
+7	belong	belong	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	to	to	ADP	_	_	10	case	_	_
+9	different	different	ADJ	POS	Degree=Pos	10	amod	_	_
+10	fields	field	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+11	or	or	CCONJ	_	_	12	cc	_	_
+12	items	item	NOUN	PL-NOM	Number=Plur	5	conj	_	_
+13	that	that	PRON	REL	PronType=Rel	14	nsubj	_	_
+14	belong	belong	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15	to	to	ADP	_	_	17	case	_	_
+16	parent	parent	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	items	item	NOUN	PL-NOM	Number=Plur	14	obl	_	_
+18	into	into	ADP	_	_	21	case	_	_
+19	a	a	DET	IND-SG	Definite=Ind|PronType=Art	21	det	_	_
+20	custom	custom	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	group	group	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+22	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3739
+# text = When you create the first custom group for a field, a custom group field is automatically added as the field's parent.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	create	create	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+5	first	first	ADJ	ORD	Degree=Pos|NumType=Ord	7	amod	_	_
+6	custom	custom	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	group	group	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+8	for	for	ADP	_	_	10	case	_	_
+9	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+10	field	field	NOUN	SG-NOM	Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	Comma	_	3	punct	_	_
+12	a	a	DET	IND-SG	Definite=Ind|PronType=Art	15	det	_	_
+13	custom	custom	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	group	group	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	field	field	NOUN	SG-NOM	Number=Sing	18	nsubj:pass	_	_
+16	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+17	automatically	automatically	ADV	_	_	18	advmod	_	_
+18	added	add	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+19	as	as	ADP	_	_	23	case	_	_
+20	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+21	field	field	NOUN	SG	Number=Sing	23	nmod:poss	_	SpaceAfter=No
+22	's	's	PART	GEN	_	21	case	_	_
+23	parent	parent	NOUN	SG-NOM	Number=Sing	18	obl	_	SpaceAfter=No
+24	.	.	PUNCT	Period	_	18	punct	_	_
+
+# sent_id = 3740
+# text = Similarly, when you delete the last custom group for a field, the custom group field is automatically deleted.
+1	Similarly	similarly	ADV	_	_	20	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	when	when	SCONJ	_	Case=Nom	5	mark	_	_
+4	you	you	PRON	PERS-P2	_	5	nsubj	_	_
+5	delete	delete	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+7	last	last	ADJ	SPL	Degree=Pos	9	amod	_	_
+8	custom	custom	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	group	group	NOUN	SG-NOM	Number=Sing	5	obj	_	_
+10	for	for	ADP	_	_	12	case	_	_
+11	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+12	field	field	NOUN	SG-NOM	Number=Sing	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	Comma	_	5	punct	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+15	custom	custom	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	group	group	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	field	field	NOUN	SG-NOM	Number=Sing	20	nsubj:pass	_	_
+18	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+19	automatically	automatically	ADV	_	_	20	advmod	_	_
+20	deleted	delete	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	20	punct	_	_
+
+# sent_id = 3741
+# text = When you delete a custom group that is not the last custom group in the field, the deleted group's members automatically move to the Other group.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	delete	delete	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	24	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+5	custom	custom	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	group	group	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+7	that	that	PRON	REL	PronType=Rel	13	nsubj	_	_
+8	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+9	not	not	PART	NEG	_	13	advmod	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+11	last	last	ADJ	SPL	Degree=Pos	13	amod	_	_
+12	custom	custom	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	group	group	NOUN	SG-NOM	Number=Sing	6	acl:relcl	_	_
+14	in	in	ADP	_	_	16	case	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+16	field	field	NOUN	SG-NOM	Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	Comma	_	3	punct	_	_
+18	the	the	DET	DEF	Definite=Def|PronType=Art	22	det	_	_
+19	deleted	delete	ADJ	PASS	Case=Nom	20	amod	_	_
+20	group	group	NOUN	SG	Number=Sing	22	nmod:poss	_	SpaceAfter=No
+21	's	's	PART	GEN	_	20	case	_	_
+22	members	member	NOUN	PL-NOM	Number=Plur	24	nsubj	_	_
+23	automatically	automatically	ADV	_	_	24	advmod	_	_
+24	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+25	to	to	ADP	_	_	28	case	_	_
+26	the	the	DET	DEF	Definite=Def|PronType=Art	28	det	_	_
+27	Other	Other	PROPN	SG-NOM	Case=Nom	28	compound	_	_
+28	group	group	NOUN	SG-NOM	Number=Sing	24	obl	_	SpaceAfter=No
+29	.	.	PUNCT	Period	_	24	punct	_	_
+
+# sent_id = 3742
+# text = The groups you create do not affect source data.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	groups	group	NOUN	PL-NOM	Number=Plur	7	nsubj	_	_
+3	you	you	PRON	PERS-P2	_	4	nsubj	_	_
+4	create	create	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	do	do	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	not	not	PART	NEG	_	7	advmod	_	_
+7	affect	affect	VERB	INF	VerbForm=Inf	0	root	_	_
+8	source	source	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	data	data	NOUN	PL-NOM	Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3743
+# text = Moving a field whose parent is a custom group field
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+3	field	field	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	whose	who	PRON	WH-GEN	Poss=Yes|PronType=Int	5	nmod:poss	_	_
+5	parent	parent	NOUN	SG-NOM	Number=Sing	10	nsubj	_	_
+6	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+8	custom	custom	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	group	group	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	field	field	NOUN	SG-NOM	Number=Sing	3	acl:relcl	_	_
+
+# sent_id = 3744
+# text = When you move a field that has custom groups between row and column areas, the custom group fields that are based on the field move with the field.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	that	that	PRON	REL	PronType=Rel	7	nsubj	_	_
+7	has	have	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	custom	custom	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	groups	group	NOUN	PL-NOM	Number=Plur	7	obj	_	_
+10	between	between	ADP	_	_	14	case	_	_
+11	row	row	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+12	and	and	CCONJ	_	_	14	cc	_	_
+13	column	column	NOUN	SG-NOM	Number=Sing	11	conj	_	_
+14	areas	area	NOUN	PL-NOM	Number=Plur	7	obl	_	SpaceAfter=No
+15	,	,	PUNCT	Comma	_	3	punct	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+17	custom	custom	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	group	group	NOUN	SG-NOM	Number=Sing	19	compound	_	_
+19	fields	field	NOUN	PL-NOM	Number=Plur	26	nsubj	_	_
+20	that	that	PRON	REL	PronType=Rel	22	nsubj	_	_
+21	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
+22	based	base	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	19	acl:relcl	_	_
+23	on	on	ADP	_	_	25	case	_	_
+24	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+25	field	field	NOUN	SG-NOM	Number=Sing	22	obl	_	_
+26	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+27	with	with	ADP	_	_	29	case	_	_
+28	the	the	DET	DEF	Definite=Def|PronType=Art	29	det	_	_
+29	field	field	NOUN	SG-NOM	Number=Sing	26	obl	_	SpaceAfter=No
+30	.	.	PUNCT	Period	_	26	punct	_	_
+
+# sent_id = 3745
+# text = If you move the field to the filter area, the custom group fields are hidden.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	filter	filter	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	3	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+12	custom	custom	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	group	group	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	fields	field	NOUN	PL-NOM	Number=Plur	16	nsubj:pass	_	_
+15	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
+16	hidden	hide	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	16	punct	_	_
+
+# sent_id = 3746
+# text = However, the bound field will show the custom group hierarchy in the drop-down list, so you can filter data by selecting custom groups or individual values.
+1	However	however	ADV	_	_	7	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+4	bound	bind	ADJ	PASS	Degree=Pos	5	amod	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
+6	will	will	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+7	show	show	VERB	INF	VerbForm=Inf	0	root	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+9	custom	custom	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	group	group	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	hierarchy	hierarchy	NOUN	SG-NOM	Number=Sing	7	obj	_	_
+12	in	in	ADP	_	_	15	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+14	drop-down	drop-down	ADJ	POS	Degree=Pos	15	amod	_	_
+15	list	list	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
+16	,	,	PUNCT	Comma	_	20	punct	_	_
+17	so	so	SCONJ	_	_	20	mark	_	_
+18	you	you	PRON	PERS-P2	_	20	nsubj	_	_
+19	can	can	AUX	PRES-AUX	VerbForm=Fin	20	aux	_	_
+20	filter	filter	VERB	INF	Case=Nom	7	advcl	_	_
+21	data	data	NOUN	PL-NOM	Number=Sing	20	obj	_	_
+22	by	by	ADP	_	_	23	mark	_	_
+23	selecting	select	VERB	ING	Tense=Pres|VerbForm=Part	20	advcl	_	_
+24	custom	custom	NOUN	SG-NOM	Number=Sing	25	compound	_	_
+25	groups	group	NOUN	PL-NOM	Number=Plur	23	obj	_	_
+26	or	or	CCONJ	_	_	28	cc	_	_
+27	individual	individual	ADJ	POS	Degree=Pos	28	amod	_	_
+28	values	value	NOUN	PL-NOM	Number=Plur	25	conj	_	SpaceAfter=No
+29	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3747
+# text = When you move the field back to a row or column area, the custom group fields will appear again.
+1	When	when	SCONJ	_	Case=Nom	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	back	back	ADV	_	_	3	advmod	_	_
+7	to	to	ADP	_	_	12	case	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+9	row	row	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+10	or	or	CCONJ	_	_	11	cc	_	_
+11	column	column	NOUN	SG-NOM	Number=Sing	9	conj	_	_
+12	area	area	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+13	,	,	PUNCT	Comma	_	3	punct	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+15	custom	custom	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	group	group	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	fields	field	NOUN	PL-NOM	Number=Plur	19	nsubj	_	_
+18	will	will	AUX	PRES-AUX	VerbForm=Fin	19	aux	_	_
+19	appear	appear	VERB	INF	VerbForm=Inf	0	root	_	_
+20	again	again	ADV	_	_	19	advmod	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	19	punct	_	_
+
+# sent_id = 3748
+# text = You can not move a field with custom groups to the detail area.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	not	not	PART	NEG	_	4	advmod	_	_
+4	move	move	VERB	INF	VerbForm=Inf	0	root	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+6	field	field	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+7	with	with	ADP	_	_	9	case	_	_
+8	custom	custom	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	groups	group	NOUN	PL-NOM	Number=Plur	6	nmod	_	_
+10	to	to	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	detail	detail	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	area	area	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3749
+# text = Adding and removing nested custom groups
+1	Adding	add	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	and	and	CCONJ	_	_	3	cc	_	_
+3	removing	remove	VERB	ING	Tense=Pres|VerbForm=Part	1	conj	_	_
+4	nested	nested	ADJ	POS	Degree=Pos	6	amod	_	_
+5	custom	custom	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	groups	group	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+
+# sent_id = 3750
+# text = You can select two or more custom groups to create a higher-level grouping.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	select	select	VERB	INF	VerbForm=Inf	0	root	_	_
+4	two	two	NUM	CARD-PL	NumType=Card	8	nummod	_	_
+5	or	or	CCONJ	_	_	6	cc	_	_
+6	more	much	ADJ	CMP	Degree=Cmp	4	conj	_	_
+7	custom	custom	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	groups	group	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+9	to	to	PART	_	_	10	mark	_	_
+10	create	create	VERB	INF	VerbForm=Inf	3	advcl	_	_
+11	a	a	DET	IND-SG	Definite=Ind|PronType=Art	13	det	_	_
+12	higher-level	higher-level	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	grouping	group	NOUN	SG-NOM	Number=Sing	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3751
+# text = For example, you can group the members of the Category field into two groups: high priority promotions and low priority promotions.
+1	For	for	ADV	_	Case=Nom	6	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+5	can	can	AUX	PRES-AUX	VerbForm=Fin	6	aux	_	_
+6	group	group	VERB	INF	Case=Nom	0	root	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	members	member	NOUN	PL-NOM	Number=Plur	6	obj	_	_
+9	of	of	ADP	_	_	12	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+11	Category	category	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	field	field	NOUN	SG-NOM	Number=Sing	8	nmod	_	_
+13	into	into	ADP	_	_	15	case	_	_
+14	two	two	NUM	CARD-PL	NumType=Card	15	nummod	_	_
+15	groups	group	NOUN	PL-NOM	Number=Plur	6	obl	_	SpaceAfter=No
+16	:	:	PUNCT	Colon	_	15	punct	_	_
+17	high	high	ADJ	POS	Degree=Pos	18	amod	_	_
+18	priority	priority	NOUN	SG-NOM	Number=Sing	19	compound	_	_
+19	promotions	promotion	NOUN	PL-NOM	Number=Plur	15	appos	_	_
+20	and	and	CCONJ	_	_	23	cc	_	_
+21	low	low	ADJ	POS	Degree=Pos	22	amod	_	_
+22	priority	priority	NOUN	SG-NOM	Number=Sing	23	compound	_	_
+23	promotions	promotion	NOUN	PL-NOM	Number=Plur	19	conj	_	SpaceAfter=No
+24	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3752
+# text = The following illustration shows how the row area will look with nested custom groups.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	following	follow	ADJ	ING	Case=Nom	3	amod	_	_
+3	illustration	illustration	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	shows	show	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	how	how	ADV	WH	PronType=Int	10	advmod	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	row	row	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	area	area	NOUN	SG-NOM	Number=Sing	10	nsubj	_	_
+9	will	will	AUX	PRES-AUX	VerbForm=Fin	10	aux	_	_
+10	look	look	VERB	INF	VerbForm=Inf	4	ccomp	_	_
+11	with	with	ADP	_	_	14	case	_	_
+12	nested	nested	ADJ	POS	Degree=Pos	14	amod	_	_
+13	custom	custom	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	groups	group	NOUN	PL-NOM	Number=Plur	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3753
+# text = PivotTable view with nested custom groups
+1	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	view	view	NOUN	SG-NOM	Number=Sing	0	root	_	_
+3	with	with	ADP	_	_	6	case	_	_
+4	nested	nested	ADJ	POS	Degree=Pos	6	amod	_	_
+5	custom	custom	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	groups	group	NOUN	PL-NOM	Number=Plur	2	nmod	_	_
+
+# sent_id = 3754
+# text = 1 A custom group field that appears as the parent of the Category custom group field.
+1	1	1	NUM	ID	NumType=Card	5	discourse	_	_
+2	A	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+3	custom	custom	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	group	group	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	0	root	_	_
+6	that	that	PRON	REL	PronType=Rel	7	nsubj	_	_
+7	appears	appear	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	as	as	ADP	_	_	10	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	parent	parent	NOUN	SG-NOM	Number=Sing	7	obl	_	_
+11	of	of	ADP	_	_	16	case	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+13	Category	category	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+14	custom	custom	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	group	group	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	field	field	NOUN	SG-NOM	Number=Sing	10	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3755
+# text = You can also remove a lower-level custom group.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	also	also	ADV	_	_	4	advmod	_	_
+4	remove	remove	VERB	INF	VerbForm=Inf	0	root	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+6	lower-level	lower-level	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+7	custom	custom	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	group	group	NOUN	SG-NOM	Number=Sing	4	obj	_	SpaceAfter=No
+9	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3756
+# text = The following illustration shows what the data will look like after the Category field has been removed.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	following	follow	ADJ	ING	Case=Nom	3	amod	_	_
+3	illustration	illustration	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	shows	show	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	what	what	PRON	WH	PronType=Int	9	obl	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+7	data	data	NOUN	PL-NOM	Number=Sing	9	nsubj	_	_
+8	will	will	AUX	PRES-AUX	VerbForm=Fin	9	aux	_	_
+9	look	look	VERB	INF	VerbForm=Inf	4	ccomp	_	_
+10	like	like	ADP	_	_	5	case	_	_
+11	after	after	SCONJ	_	_	17	mark	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+13	Category	category	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	field	field	NOUN	SG-NOM	Number=Sing	17	nsubj:pass	_	_
+15	has	have	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+16	been	be	AUX	PERF	Tense=Past|VerbForm=Part	17	aux:pass	_	_
+17	removed	remove	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3757
+# text = Use a grid of grouped lines as a table for displaying data
+1	Use	use	VERB	INF	VerbForm=Inf	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+3	grid	grid	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	of	of	ADP	_	_	6	case	_	_
+5	grouped	group	ADJ	PASS	Degree=Pos	6	amod	_	_
+6	lines	line	NOUN	PL-NOM	Number=Plur	3	nmod	_	_
+7	as	as	ADP	_	_	9	case	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+9	table	table	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+10	for	for	ADP	_	_	11	mark	_	_
+11	displaying	display	VERB	ING	Tense=Pres|VerbForm=Part	9	acl	_	_
+12	data	data	NOUN	PL-NOM	Number=Sing	11	obj	_	_
+
+# sent_id = 3758
+# text = In Design view of a form or report, create a grid of lines.
+1	In	in	ADP	_	_	3	case	_	_
+2	Design	design	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	view	view	NOUN	SG-NOM	Number=Sing	10	obl	_	_
+4	of	of	ADP	_	_	6	case	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+6	form	form	NOUN	SG-NOM	Number=Sing	3	nmod	_	_
+7	or	or	CCONJ	_	_	8	cc	_	_
+8	report	report	NOUN	SG-NOM	Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	3	punct	_	_
+10	create	create	VERB	INF	VerbForm=Inf	0	root	_	_
+11	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+12	grid	grid	NOUN	SG-NOM	Number=Sing	10	obj	_	_
+13	of	of	ADP	_	_	14	case	_	_
+14	lines	line	NOUN	PL-NOM	Number=Plur	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = 3759
+# text = For example, your grid might look like following:
+1	For	for	ADV	_	Case=Nom	7	advmod	_	_
+2	example	example	NOUN	_	Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	1	punct	_	_
+4	your	you	PRON	P2-GEN	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	grid	grid	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
+6	might	might	AUX	PAST-AUX	VerbForm=Fin	7	aux	_	_
+7	look	look	VERB	INF	VerbForm=Inf	0	root	_	_
+8	like	like	ADP	_	_	9	mark	_	_
+9	following	follow	VERB	ING	Tense=Pres|VerbForm=Part	7	ccomp	_	SpaceAfter=No
+10	:	:	PUNCT	Colon	_	7	punct	_	_
+
+# sent_id = 3760
+# text = A more complex grid made of seven lines
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+2	more	very	ADV	CMP	_	3	advmod	_	_
+3	complex	complex	ADJ	POS	Degree=Pos	4	amod	_	_
+4	grid	grid	NOUN	SG-NOM	Number=Sing	0	root	_	_
+5	made	make	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	acl:relcl	_	_
+6	of	of	ADP	_	_	8	case	_	_
+7	seven	seven	NUM	CARD-PL	NumType=Card	8	nummod	_	_
+8	lines	line	NOUN	PL-NOM	Number=Plur	5	obl	_	_
+
+# sent_id = 3761
+# text = Click outside of the grid of lines and drag a rectangle over the grid.
+1	Click	click	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	outside	outside	ADV	_	_	5	advmod	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	grid	grid	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+6	of	of	ADP	_	_	7	case	_	_
+7	lines	line	NOUN	PL-NOM	Number=Plur	5	nmod	_	_
+8	and	and	CCONJ	_	_	9	cc	_	_
+9	drag	drag	VERB	IMP	Mood=Imp|VerbForm=Fin	1	conj	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+11	rectangle	rectangle	NOUN	SG-NOM	Number=Sing	9	obj	_	_
+12	over	over	ADP	_	_	14	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+14	grid	grid	NOUN	SG-NOM	Number=Sing	9	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = 3762
+# text = On the Format menu, click Group.
+1	On	on	ADP	_	_	4	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	Format	format	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	menu	menu	NOUN	SG-NOM	Number=Sing	6	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	4	punct	_	_
+6	click	click	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+7	Group	Group	PROPN	SG-NOM	Number=Sing	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 3763
+# text = Move a line in a grid of grouped lines
+1	Move	move	VERB	INF	VerbForm=Inf	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+3	line	line	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	in	in	ADP	_	_	6	case	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+6	grid	grid	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+7	of	of	ADP	_	_	9	case	_	_
+8	grouped	group	ADJ	PASS	Degree=Pos	9	amod	_	_
+9	lines	line	NOUN	PL-NOM	Number=Plur	6	nmod	_	_
+
+# sent_id = 3764
+# text = Click the grid of grouped lines.
+1	Click	click	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	grid	grid	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	of	of	ADP	_	_	6	case	_	_
+5	grouped	group	ADJ	PASS	Degree=Pos	6	amod	_	_
+6	lines	line	NOUN	PL-NOM	Number=Plur	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = 3765
+# text = While holding down the ALT key, click the line you want to move.
+1	While	while	SCONJ	_	_	2	mark	_	_
+2	holding	hold	VERB	ING	Tense=Pres|VerbForm=Part	8	advcl	_	_
+3	down	down	ADV	_	_	2	compound:prt	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+5	ALT	alt	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	key	key	NOUN	SG-NOM	Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	2	punct	_	_
+8	click	click	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	line	line	NOUN	SG-NOM	Number=Sing	8	obj	_	_
+11	you	you	PRON	PERS-P2	_	12	nsubj	_	_
+12	want	want	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	to	to	PART	_	_	14	mark	_	_
+14	move	move	VERB	INF	VerbForm=Inf	12	xcomp	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	8	punct	_	_
+
+# sent_id = 3766
+# text = When the pointer changes to a double-headed arrow, you can drag the line to a new location.
+1	When	when	SCONJ	_	Case=Nom	4	mark	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	pointer	pointer	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	changes	change	VERB	PRES	Case=Nom	12	advcl	_	_
+5	to	to	ADP	_	_	8	case	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+7	double-headed	double-headed	ADJ	POS	Degree=Pos	8	amod	_	_
+8	arrow	arrow	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	4	punct	_	_
+10	you	you	PRON	PERS-P2	_	12	nsubj	_	_
+11	can	can	AUX	PRES-AUX	VerbForm=Fin	12	aux	_	_
+12	drag	drag	VERB	INF	VerbForm=Inf	0	root	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+14	line	line	NOUN	SG-NOM	Number=Sing	12	obj	_	_
+15	to	to	ADP	_	_	18	case	_	_
+16	a	a	DET	IND-SG	Definite=Ind|PronType=Art	18	det	_	_
+17	new	new	ADJ	POS	Degree=Pos	18	amod	_	_
+18	location	location	NOUN	SG-NOM	Number=Sing	12	obl	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	12	punct	_	_
+
+# sent_id = 3767
+# text = Rules for moving an interior vertical line
+1	Rules	rule	NOUN	PL-NOM	Number=Plur	0	root	_	_
+2	for	for	SCONJ	_	_	3	mark	_	_
+3	moving	move	VERB	ING	Tense=Pres|VerbForm=Part	1	acl	_	_
+4	an	an	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+5	interior	interior	ADJ	POS	Degree=Pos	7	amod	_	_
+6	vertical	vertical	ADJ	POS	Degree=Pos	7	amod	_	_
+7	line	line	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+
+# sent_id = 3768
+# text = If you move the line to the right, the distance between the moving line and the nearest parallel line to the right remains constant, and the perpendicular line to the left of the moving line lengthens.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	24	advcl	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	line	line	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	8	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	right	right	ADJ	POS	Degree=Pos	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	3	punct	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+11	distance	distance	NOUN	SG-NOM	Number=Sing	24	nsubj	_	_
+12	between	between	ADP	_	_	15	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+14	moving	moving	ADJ	ING	Case=Nom	15	amod	_	_
+15	line	line	NOUN	SG-NOM	Number=Sing	11	nmod	_	_
+16	and	and	CCONJ	_	_	20	cc	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+18	nearest	near	ADJ	SPL	Degree=Sup	20	amod	_	_
+19	parallel	parallel	ADJ	POS	Degree=Pos	20	amod	_	_
+20	line	line	NOUN	SG-NOM	Number=Sing	15	conj	_	_
+21	to	to	ADP	_	_	23	case	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+23	right	right	NOUN	SG-NOM	Number=Sing	20	nmod	_	_
+24	remains	remain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+25	constant	constant	ADJ	POS	Degree=Pos	24	xcomp	_	SpaceAfter=No
+26	,	,	PUNCT	Comma	_	24	punct	_	_
+27	and	and	CCONJ	_	_	38	cc	_	_
+28	the	the	DET	DEF	Definite=Def|PronType=Art	30	det	_	_
+29	perpendicular	perpendicular	ADJ	POS	Degree=Pos	30	amod	_	_
+30	line	line	NOUN	SG-NOM	Number=Sing	38	nsubj	_	_
+31	to	to	ADP	_	_	33	case	_	_
+32	the	the	DET	DEF	Definite=Def|PronType=Art	33	det	_	_
+33	left	left	NOUN	SG-NOM	Number=Sing	30	nmod	_	_
+34	of	of	ADP	_	_	37	case	_	_
+35	the	the	DET	DEF	Definite=Def|PronType=Art	37	det	_	_
+36	moving	moving	ADJ	ING	Case=Nom	37	amod	_	_
+37	line	line	NOUN	SG-NOM	Number=Sing	33	nmod	_	_
+38	lengthens	lengthen	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	SpaceAfter=No
+39	.	.	PUNCT	Period	_	24	punct	_	_
+
+# sent_id = 3769
+# text = If you move the line to the left, the distance between the moving line and the nearest parallel line to the right remains constant, and the perpendicular line to the left of the moving line contracts.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	24	advcl	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	line	line	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	8	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	left	left	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	3	punct	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+11	distance	distance	NOUN	SG-NOM	Number=Sing	24	nsubj	_	_
+12	between	between	ADP	_	_	15	case	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+14	moving	moving	ADJ	ING	Case=Nom	15	amod	_	_
+15	line	line	NOUN	SG-NOM	Number=Sing	11	nmod	_	_
+16	and	and	CCONJ	_	_	20	cc	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+18	nearest	near	ADJ	SPL	Degree=Sup	20	amod	_	_
+19	parallel	parallel	ADJ	POS	Degree=Pos	20	amod	_	_
+20	line	line	NOUN	SG-NOM	Number=Sing	15	conj	_	_
+21	to	to	ADP	_	_	23	case	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+23	right	right	NOUN	SG-NOM	Number=Sing	20	nmod	_	_
+24	remains	remain	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+25	constant	constant	ADJ	POS	Degree=Pos	24	xcomp	_	SpaceAfter=No
+26	,	,	PUNCT	Comma	_	24	punct	_	_
+27	and	and	CCONJ	_	_	38	cc	_	_
+28	the	the	DET	DEF	Definite=Def|PronType=Art	30	det	_	_
+29	perpendicular	perpendicular	ADJ	POS	Degree=Pos	30	amod	_	_
+30	line	line	NOUN	SG-NOM	Number=Sing	38	nsubj	_	_
+31	to	to	ADP	_	_	33	case	_	_
+32	the	the	DET	DEF	Definite=Def|PronType=Art	33	det	_	_
+33	left	left	NOUN	SG-NOM	Number=Sing	30	nmod	_	_
+34	of	of	ADP	_	_	37	case	_	_
+35	the	the	DET	DEF	Definite=Def|PronType=Art	37	det	_	_
+36	moving	moving	ADJ	ING	Case=Nom	37	amod	_	_
+37	line	line	NOUN	SG-NOM	Number=Sing	33	nmod	_	_
+38	contracts	contract	VERB	PRES	Case=Nom	24	conj	_	SpaceAfter=No
+39	.	.	PUNCT	Period	_	24	punct	_	_
+
+# newdoc
+# sent_id = 3770
+# text = At the back table sat two old men in shabby clothes, one very fat and the other very thin, intently studying the racing forms.
+1	At	at	ADP	_	_	4	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	back	back	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	table	table	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+5	sat	sit	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	two	two	NUM	CARD-PL	NumType=Card	8	nummod	_	_
+7	old	old	ADJ	POS	Degree=Pos	8	amod	_	_
+8	men	man	NOUN	PL-NOM	Number=Plur	5	nsubj	_	_
+9	in	in	ADP	_	_	11	case	_	_
+10	shabby	shabby	ADJ	POS	Degree=Pos	11	amod	_	_
+11	clothes	clothes	NOUN	PL-NOM	Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Comma	_	15	punct	_	_
+13	one	one	PRON	IND-P3SG	_	15	nsubj	_	_
+14	very	very	ADV	_	_	15	advmod	_	_
+15	fat	fat	ADJ	POS	Degree=Pos	5	parataxis	_	_
+16	and	and	CCONJ	_	_	20	cc	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+18	other	other	PRON	ADJ	Case=Nom	20	nsubj	_	_
+19	very	very	ADV	_	_	20	advmod	_	_
+20	thin	thin	ADJ	POS	Degree=Pos	15	conj	_	SpaceAfter=No
+21	,	,	PUNCT	Comma	_	15	punct	_	_
+22	intently	intently	ADV	_	_	23	advmod	_	_
+23	studying	study	VERB	ING	Tense=Pres|VerbForm=Part	5	advcl	_	_
+24	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+25	racing	race	ADJ	ING	Case=Nom	26	amod	_	_
+26	forms	form	NOUN	PL-NOM	Number=Plur	23	obj	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3771
+# text = Two empty coffee cups sat on the table between them.
+1	Two	two	NUM	CARD-PL	NumType=Card	4	nummod	_	_
+2	empty	empty	ADJ	POS	Degree=Pos	4	amod	_	_
+3	coffee	coffee	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	cups	cup	NOUN	PL-NOM	Number=Plur	5	nsubj	_	_
+5	sat	sit	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	on	on	ADP	_	_	8	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	table	table	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+9	between	between	ADP	_	_	10	case	_	_
+10	them	they	PRON	PERS-P3PL-ACC	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3772
+# text = In the foreground, facing the magazine rack, a young student stood with an open magazine in his hands, staring at a picture of a naked woman.
+1	In	in	ADP	_	_	3	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	foreground	foreground	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	5	punct	_	_
+5	facing	face	VERB	ING	Tense=Pres|VerbForm=Part	13	advcl	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	magazine	magazine	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	rack	rack	NOUN	SG-NOM	Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	5	punct	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+11	young	young	ADJ	POS	Degree=Pos	12	amod	_	_
+12	student	student	NOUN	SG-NOM	Number=Sing	13	nsubj	_	_
+13	stood	stand	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+14	with	with	ADP	_	_	17	case	_	_
+15	an	an	DET	IND-SG	Definite=Ind|PronType=Art	17	det	_	_
+16	open	open	ADJ	POS	Degree=Pos	17	amod	_	_
+17	magazine	magazine	NOUN	SG-NOM	Number=Sing	13	obl	_	_
+18	in	in	ADP	_	_	20	case	_	_
+19	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	_
+20	hands	hand	NOUN	PL-NOM	Number=Plur	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	Comma	_	22	punct	_	_
+22	staring	stare	VERB	ING	Tense=Pres|VerbForm=Part	13	advcl	_	_
+23	at	at	ADP	_	_	25	case	_	_
+24	a	a	DET	IND-SG	Definite=Ind|PronType=Art	25	det	_	_
+25	picture	picture	NOUN	SG-NOM	Number=Sing	22	obl	_	_
+26	of	of	ADP	_	_	29	case	_	_
+27	a	a	DET	IND-SG	Definite=Ind|PronType=Art	29	det	_	_
+28	naked	naked	ADJ	POS	Degree=Pos	29	amod	_	_
+29	woman	woman	NOUN	SG-NOM	Number=Sing	25	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	Period	_	13	punct	_	_
+
+# sent_id = 3773
+# text = Quinn sat down at the counter and ordered a hamburger and a coffee.
+1	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	2	nsubj	_	_
+2	sat	sit	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	down	down	ADV	_	_	2	advmod	_	_
+4	at	at	ADP	_	_	6	case	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+6	counter	counter	NOUN	SG-NOM	Number=Sing	2	obl	_	_
+7	and	and	CCONJ	_	_	8	cc	_	_
+8	ordered	order	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+10	hamburger	hamburger	NOUN	SG-NOM	Number=Sing	8	obj	_	_
+11	and	and	CCONJ	_	_	13	cc	_	_
+12	a	a	DET	IND-SG	Definite=Ind|PronType=Art	13	det	_	_
+13	coffee	coffee	NOUN	SG-NOM	Number=Sing	10	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3774
+# text = As the counterman swung into action, he spoke over his shoulder to Quinn.
+1	As	as	SCONJ	_	_	4	mark	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	counterman	counterman	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	swung	swing	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	_
+5	into	into	ADP	_	_	6	case	_	_
+6	action	action	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	4	punct	_	_
+8	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	spoke	speak	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+10	over	over	ADP	_	_	12	case	_	_
+11	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
+12	shoulder	shoulder	NOUN	SG-NOM	Number=Sing	9	obl	_	_
+13	to	to	ADP	_	_	14	case	_	_
+14	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	9	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	9	punct	_	_
+
+# sent_id = 3775
+# text = Did you see game tonight, man?
+1	Did	do	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	see	see	VERB	INF	VerbForm=Inf	0	root	_	_
+4	game	game	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+5	tonight	tonight	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	5	punct	_	_
+7	man	man	NOUN	SG-NOM	Number=Sing	3	vocative	_	SpaceAfter=No
+8	?	?	PUNCT	QuestionMark	_	3	punct	_	_
+
+# sent_id = 3776
+# text = I missed it. Anything good to report?
+1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	missed	miss	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	it	it	PRON	PERS-SG	_	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	2	punct	_	_
+5	Anything	anything	PRON	IND-SG-NOM	Number=Sing	8	dislocated	_	_
+6	good	good	ADJ	POS	Degree=Pos	5	amod	_	_
+7	to	to	PART	_	_	8	mark	_	_
+8	report	report	VERB	INF	VerbForm=Inf	2	parataxis	_	SpaceAfter=No
+9	?	?	PUNCT	QuestionMark	_	8	punct	_	_
+
+# sent_id = 3777
+# text = What do you think?
+1	What	what	PRON	WH	PronType=Int	4	obj	_	_
+2	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	you	you	PRON	PERS-P2	_	4	nsubj	_	_
+4	think	think	VERB	INF	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	QuestionMark	_	4	punct	_	_
+
+# sent_id = 3778
+# text = For several years Quinn had been having the same conversation with this man, whose name he did not know.
+1	For	for	ADP	_	_	3	case	_	_
+2	several	several	ADJ	POS	Degree=Pos	3	amod	_	_
+3	years	year	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+4	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	7	nsubj	_	_
+5	had	have	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	_
+6	been	be	AUX	PERF	Tense=Past|VerbForm=Part	7	aux	_	_
+7	having	have	AUX	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+9	same	same	ADJ	POS	Degree=Pos	10	amod	_	_
+10	conversation	conversation	NOUN	SG-NOM	Number=Sing	7	obj	_	_
+11	with	with	ADP	_	_	13	case	_	_
+12	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	13	det	_	_
+13	man	man	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
+14	,	,	PUNCT	Comma	_	20	punct	_	_
+15	whose	who	PRON	WH-REL-GEN	Poss=Yes|PronType=Int	16	nmod:poss	_	_
+16	name	name	NOUN	SG-NOM	Number=Sing	20	obj	_	_
+17	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+18	did	do	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	20	aux	_	_
+19	not	not	PART	NEG	_	20	advmod	_	_
+20	know	know	VERB	INF	VerbForm=Inf	13	acl:relcl	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3779
+# text = Once, when he had been in the luncheonette, they had talked about baseball, and now, each time Quinn came in, they continued to talk about it.
+1	Once	once	ADV	_	NumType=Mult	13	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	6	punct	_	_
+3	when	when	SCONJ	_	Case=Nom	6	mark	_	_
+4	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	had	have	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	_
+6	been	be	AUX	PERF	Tense=Past|VerbForm=Part	13	advcl	_	_
+7	in	in	ADP	_	_	9	case	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	luncheonette	luncheonette	NOUN	SG-NOM	Number=Sing	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	6	punct	_	_
+11	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+12	had	have	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux	_	_
+13	talked	talk	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+14	about	about	ADP	_	_	15	case	_	_
+15	baseball	baseball	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	Comma	_	18	punct	_	_
+17	and	and	CCONJ	_	_	27	cc	_	_
+18	now	now	ADV	_	_	27	advmod	_	SpaceAfter=No
+19	,	,	PUNCT	Comma	_	18	punct	_	_
+20	each	each	DET	TOT-SG	_	21	det	_	_
+21	time	time	NOUN	SG-NOM	Number=Sing	27	obl	_	_
+22	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	23	nsubj	_	_
+23	came	come	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	21	acl:relcl	_	_
+24	in	in	ADV	_	_	23	advmod	_	SpaceAfter=No
+25	,	,	PUNCT	Comma	_	23	punct	_	_
+26	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
+27	continued	continue	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	13	conj	_	_
+28	to	to	PART	_	_	29	mark	_	_
+29	talk	talk	VERB	INF	VerbForm=Inf	27	xcomp	_	_
+30	about	about	ADP	_	_	31	case	_	_
+31	it	it	PRON	PERS-SG	_	29	obl	_	SpaceAfter=No
+32	.	.	PUNCT	Period	_	13	punct	_	_
+
+# sent_id = 3780
+# text = In the winter, the talk was of trades, predictions, memories.
+1	In	in	ADP	_	_	3	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	winter	winter	NOUN	SG-NOM	Number=Sing	9	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	3	punct	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+6	talk	talk	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_
+7	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	of	of	ADP	_	_	9	case	_	_
+9	trades	trade	NOUN	PL-NOM	Number=Plur	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	11	punct	_	_
+11	predictions	prediction	NOUN	PL-NOM	Number=Plur	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	Comma	_	13	punct	_	_
+13	memories	memory	NOUN	PL-NOM	Number=Plur	9	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	9	punct	_	_
+
+# sent_id = 3781
+# text = During the seasons, it was always the most recent game.
+1	During	during	ADP	_	_	3	case	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	seasons	season	NOUN	PL-NOM	Number=Plur	11	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	3	punct	_	_
+5	it	it	PRON	PERS-SG	_	11	nsubj	_	_
+6	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	cop	_	_
+7	always	always	ADV	_	_	11	advmod	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+9	most	much	ADV	SPL	_	10	advmod	_	_
+10	recent	recent	ADJ	POS	Degree=Pos	11	amod	_	_
+11	game	game	NOUN	SG-NOM	Number=Sing	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	11	punct	_	_
+
+# sent_id = 3782
+# text = They were both Mets fans, and the hopelessness of that passion had created a bond between them.
+1	They	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+2	were	be	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_
+3	both	both	PRON	TOT-PL	Case=Nom	5	nmod	_	_
+4	Mets	Mets	PROPN	PL	Number=Plur	5	compound	_	_
+5	fans	fan	NOUN	PL-NOM	Number=Plur	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	14	punct	_	_
+7	and	and	CCONJ	_	_	14	cc	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	hopelessness	hopelessness	NOUN	SG-NOM	Number=Sing	14	nsubj	_	_
+10	of	of	ADP	_	_	12	case	_	_
+11	that	that	DET	DEM-SG	Number=Sing|PronType=Dem	12	det	_	_
+12	passion	passion	NOUN	SG-NOM	Number=Sing	9	nmod	_	_
+13	had	have	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	_
+14	created	create	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	_
+15	a	a	DET	IND-SG	Definite=Ind|PronType=Art	16	det	_	_
+16	bond	bond	NOUN	SG-NOM	Number=Sing	14	obj	_	_
+17	between	between	ADP	_	_	18	case	_	_
+18	them	they	PRON	PERS-P3PL-ACC	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3783
+# text = The counterman shook his head.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	counterman	counterman	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	shook	shake	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	head	head	NOUN	SG-NOM	Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3784
+# text = First two times up, Kingsman hits solo shots, he said. Boom, boom. Big mothers – all the way to the moon.
+1	First	first	ADV	_	_	7	advmod	_	_
+2	two	two	NUM	CARD-PL	NumType=Card	3	nummod	_	_
+3	times	time	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+4	up	up	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	3	punct	_	_
+6	Kingsman	Kingsman	PROPN	SG-NOM	Number=Sing	7	nsubj	_	_
+7	hits	hit	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	solo	solo	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	shots	shot	NOUN	PL-NOM	Number=Plur	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	12	punct	_	_
+11	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	Period	_	7	punct	_	_
+14	Boom	boom	INTJ	_	_	7	discourse	_	SpaceAfter=No
+15	,	,	PUNCT	Comma	_	16	punct	_	_
+16	boom	boom	NOUN	SG-NOM	Number=Sing	7	discourse	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	7	punct	_	_
+18	Big	big	ADJ	POS	Degree=Pos	19	amod	_	_
+19	mothers	mother	NOUN	PL-NOM	Number=Plur	23	discourse	_	_
+20	–	–	PUNCT	Dash	_	19	punct	_	_
+21	all	all	DET	TOT-SG	_	23	det	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+23	way	way	NOUN	SG-NOM	Number=Sing	7	dislocated	_	_
+24	to	to	ADP	_	_	26	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+26	moon	moon	NOUN	SG-NOM	Number=Sing	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	23	punct	_	_
+
+# sent_id = 3785
+# text = Jones is pitching good for once and things don't look too bad.
+1	Jones	Jones	PROPN	SG-NOM	Number=Sing	3	nsubj	_	_
+2	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	pitching	pitch	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+4	good	good	ADV	_	Case=Nom	3	advmod	_	_
+5	for	for	ADP	_	_	6	case	_	_
+6	once	once	ADV	_	NumType=Mult	3	advmod	_	_
+7	and	and	CCONJ	_	_	11	cc	_	_
+8	things	thing	NOUN	PL-NOM	Number=Plur	11	nsubj	_	_
+9	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	SpaceAfter=No
+10	n't	not	PART	NEG	_	11	advmod	_	_
+11	look	look	VERB	INF	VerbForm=Inf	3	conj	_	_
+12	too	too	ADV	_	_	13	advmod	_	_
+13	bad	bad	ADJ	POS	Degree=Pos	11	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3786
+# text = It's two to one, bottom of the ninth.
+1	It	it	PRON	PERS-SG	_	3	nsubj	_	SpaceAfter=No
+2	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	two	two	NUM	CARD-PL	NumType=Card	0	root	_	_
+4	to	to	ADP	_	_	5	case	_	_
+5	one	one	NUM	CARD-SG	NumType=Card	3	nummod	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	7	punct	_	_
+7	bottom	bottom	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+8	of	of	ADP	_	_	10	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	ninth	ninth	ADJ	ORD	Degree=Pos	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3787
+# text = Pittsburgh gets men on second and third, one out, so the Mets go to the bullpen for Allen.
+1	Pittsburgh	Pittsburgh	PROPN	SG-NOM	Number=Sing	2	nsubj	_	_
+2	gets	get	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	men	man	NOUN	PL-NOM	Number=Plur	2	obj	_	_
+4	on	on	ADP	_	_	5	case	_	_
+5	second	second	ADJ	ORD	Degree=Pos|NumType=Ord	2	obl	_	_
+6	and	and	CCONJ	_	_	7	cc	_	_
+7	third	third	ADJ	ORD	Degree=Pos|NumType=Ord	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	10	punct	_	_
+9	one	one	PRON	IND-P3SG	_	10	nsubj	_	_
+10	out	out	ADV	_	_	2	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	Comma	_	10	punct	_	_
+12	so	so	SCONJ	_	_	15	mark	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+14	Mets	Mets	PROPN	PL	Number=Plur	15	nsubj	_	_
+15	go	go	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+16	to	to	ADP	_	_	18	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+18	bullpen	bullpen	NOUN	SG-NOM	Number=Sing	15	obl	_	_
+19	for	for	ADP	_	_	20	case	_	_
+20	Allen	Allen	PROPN	SG-NOM	Number=Sing	15	obl	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3788
+# text = He walks the next guy to load them up.
+1	He	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	walks	walk	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+4	next	next	ADJ	POS	Degree=Pos	5	amod	_	_
+5	guy	guy	NOUN	SG-NOM	Number=Sing	2	obj	_	_
+6	to	to	PART	_	_	7	mark	_	_
+7	load	load	VERB	INF	VerbForm=Inf	2	advcl	_	_
+8	them	they	PRON	PERS-P3PL-ACC	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+9	up	up	ADV	_	_	7	compound:prt	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3789
+# text = The Mets bring the corners in for a force at home, or maybe they can get the double play if it's hit up the middle.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	Mets	Mets	PROPN	PL	Number=Plur	3	nsubj	_	_
+3	bring	bring	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	corners	corner	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+6	in	in	ADV	_	_	3	advmod	_	_
+7	for	for	ADP	_	_	9	case	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+9	force	force	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+10	at	at	ADP	_	_	11	case	_	_
+11	home	home	NOUN	SG-NOM	Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Comma	_	17	punct	_	_
+13	or	or	CCONJ	_	_	17	cc	_	_
+14	maybe	maybe	ADV	_	_	17	advmod	_	_
+15	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+16	can	can	AUX	PRES-AUX	VerbForm=Fin	17	aux	_	_
+17	get	get	VERB	INF	VerbForm=Inf	3	conj	_	_
+18	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+19	double	double	ADJ	POS	Degree=Pos	20	amod	_	_
+20	play	play	NOUN	SG-NOM	Number=Sing	17	obj	_	_
+21	if	if	SCONJ	_	_	24	mark	_	_
+22	it	it	PRON	PERS-SG	_	24	nsubj:pass	_	SpaceAfter=No
+23	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
+24	hit	hit	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	17	advcl	_	_
+25	up	up	ADP	_	_	27	case	_	_
+26	the	the	DET	DEF	Definite=Def|PronType=Art	27	det	_	_
+27	middle	middle	NOUN	SG-NOM	Number=Sing	24	obl	_	SpaceAfter=No
+28	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3790
+# text = Pena comes up and chicken-shits a little grounder to first and the fucker goes through Kingman's legs.
+1	Pena	Pena	PROPN	SG-NOM	Number=Sing	2	nsubj	_	_
+2	comes	come	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	up	up	ADV	_	_	2	compound:prt	_	_
+4	and	and	CCONJ	_	_	5	cc	_	_
+5	chicken-shits	shit	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+7	little	little	ADJ	POS	Degree=Pos	8	amod	_	_
+8	grounder	ground	NOUN	SG-NOM	Number=Sing	5	obj	_	_
+9	to	to	ADP	_	_	10	case	_	_
+10	first	first	ADJ	ORD	Degree=Pos|NumType=Ord	5	obl	_	_
+11	and	and	CCONJ	_	_	14	cc	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+13	fucker	fucker	NOUN	SG-NOM	Number=Sing	14	nsubj	_	_
+14	goes	go	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+15	through	through	ADP	_	_	18	case	_	_
+16	Kingman	Kingman	PROPN	SG	Number=Sing	18	nmod:poss	_	SpaceAfter=No
+17	's	's	PART	GEN	_	16	case	_	_
+18	legs	leg	NOUN	PL-NOM	Number=Plur	14	obl	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3791
+# text = Two men score, and that's it, bye-bye New York.
+1	Two	two	NUM	CARD-PL	NumType=Card	2	nummod	_	_
+2	men	man	NOUN	PL-NOM	Number=Plur	3	nsubj	_	_
+3	score	score	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	8	punct	_	_
+5	and	and	CCONJ	_	_	8	cc	_	_
+6	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	8	nsubj	_	SpaceAfter=No
+7	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	it	it	PRON	PERS-SG	_	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	10	punct	_	_
+10	bye-bye	bye-bye	INTJ	_	_	8	parataxis	_	_
+11	New	New	PROPN	NOM	Number=Sing	10	nsubj	_	_
+12	York	York	PROPN	SG-NOM	Number=Sing	11	flat	_	SpaceAfter=No
+13	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3792
+# text = Dave Kingman is a turd, said Quinn, biting into his hamburger.
+1	Dave	Dave	PROPN	SG-NOM	Number=Sing	5	nsubj	_	_
+2	Kingman	Kingman	PROPN	SG-NOM	Number=Sing	1	flat	_	_
+3	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	turd	turd	NOUN	SG-NOM	Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	7	punct	_	_
+7	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	_	_
+8	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	7	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	10	punct	_	_
+10	biting	bite	VERB	ING	Tense=Pres|VerbForm=Part	7	advcl	_	_
+11	into	into	ADP	_	_	13	case	_	_
+12	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	hamburger	hamburger	NOUN	SG-NOM	Number=Sing	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3793
+# text = But watch out for Foster, said the counterman.
+1	But	but	CCONJ	_	_	2	cc	_	_
+2	watch	watch	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+3	out	out	ADV	_	_	2	compound:prt	_	_
+4	for	for	ADP	_	_	5	case	_	_
+5	Foster	Foster	PROPN	SG-NOM	Case=Nom	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	7	punct	_	_
+7	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	counterman	counterman	NOUN	SG-NOM	Number=Sing	7	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3794
+# text = Foster's washed up. A has-been. A mean-faced bozo. Quinn chewed his food carefully, feeling with his tongue for stray bits of bone.
+1	Foster	Foster	PROPN	SG-NOM	Case=Nom	3	nsubj:pass	_	SpaceAfter=No
+2	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	washed	wash	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	up	up	ADV	_	_	3	compound:prt	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	3	punct	_	_
+6	A	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+7	has-been	has-been	NOUN	SG-NOM	Number=Sing	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	7	punct	_	_
+9	A	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+10	mean-faced	mean-faced	ADJ	POS	Degree=Pos	11	amod	_	_
+11	bozo	bozo	NOUN	SG-NOM	Number=Sing	3	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	11	punct	_	_
+13	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	14	nsubj	_	_
+14	chewed	chew	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+15	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+16	food	food	NOUN	SG-NOM	Number=Sing	14	obj	_	_
+17	carefully	careful	ADV	_	_	14	advmod	_	SpaceAfter=No
+18	,	,	PUNCT	Comma	_	19	punct	_	_
+19	feeling	feel	VERB	ING	Tense=Pres|VerbForm=Part	14	advcl	_	_
+20	with	with	ADP	_	_	22	case	_	_
+21	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
+22	tongue	tongue	NOUN	SG-NOM	Number=Sing	19	obl	_	_
+23	for	for	ADP	_	_	25	case	_	_
+24	stray	stray	ADJ	POS	Degree=Pos	25	amod	_	_
+25	bits	bit	NOUN	PL-NOM	Number=Plur	19	obl	_	_
+26	of	of	ADP	_	_	27	case	_	_
+27	bone	bone	NOUN	SG-NOM	Number=Sing	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	Period	_	14	punct	_	_
+
+# sent_id = 3795
+# text = They should ship him back to Cincinatti by express mail.
+1	They	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	should	should	AUX	PAST-AUX	VerbForm=Fin	3	aux	_	_
+3	ship	ship	VERB	INF	Case=Nom	0	root	_	_
+4	him	he	PRON	PERS-P3SG-ACC	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	back	back	ADV	_	_	3	advmod	_	_
+6	to	to	ADP	_	_	7	case	_	_
+7	Cincinatti	Cincinatti	PROPN	SG-NOM	Number=Sing	3	obl	_	_
+8	by	by	ADP	_	_	10	case	_	_
+9	express	express	NOUN	SG-NOM	Case=Nom	10	compound	_	_
+10	mail	mail	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3796
+# text = Yeah, said the counterman.
+1	Yeah	yeah	INTJ	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	3	punct	_	_
+3	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	counterman	counterman	NOUN	SG-NOM	Number=Sing	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = 3797
+# text = But they'll be tough. Better than last year, anyway.
+1	But	but	CCONJ	_	_	5	cc	_	_
+2	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+3	'll	will	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+4	be	be	AUX	INF	VerbForm=Inf	5	cop	_	_
+5	tough	tough	ADJ	POS	Degree=Pos	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	5	punct	_	_
+7	Better	good	ADJ	CMP	Degree=Cmp	5	conj	_	_
+8	than	than	ADP	_	_	10	case	_	_
+9	last	last	ADJ	ADJ	Degree=Pos	10	amod	_	_
+10	year	year	NOUN	SG-NOM	Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	Comma	_	12	punct	_	_
+12	anyway	anyway	ADV	_	_	7	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3798
+# text = I don't know, said Quinn, taking another bite.
+1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
+3	n't	not	PART	NEG	_	4	advmod	_	_
+4	know	know	VERB	INF	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	6	punct	_	_
+6	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+7	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	9	punct	_	_
+9	taking	take	VERB	ING	Tense=Pres|VerbForm=Part	6	advcl	_	_
+10	another	another	ADJ	ADJ-SG	_	11	amod	_	_
+11	bite	bite	NOUN	SG-NOM	Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3799
+# text = It looks good on paper, but what do they really have?
+1	It	it	PRON	PERS-SG	_	2	nsubj	_	_
+2	looks	look	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	good	good	ADJ	POS	Degree=Pos	2	xcomp	_	_
+4	on	on	ADP	_	_	5	case	_	_
+5	paper	paper	NOUN	SG-NOM	Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	12	punct	_	_
+7	but	but	CCONJ	_	_	12	cc	_	_
+8	what	what	PRON	WH	PronType=Int	12	obj	_	_
+9	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	_
+10	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+11	really	really	ADV	_	_	12	advmod	_	_
+12	have	have	VERB	INF	VerbForm=Inf	2	conj	_	SpaceAfter=No
+13	?	?	PUNCT	QuestionMark	_	2	punct	_	_
+
+# sent_id = 3800
+# text = Stearns is always getting hurt.
+1	Stearns	Stearns	PROPN	SG-NOM	Number=Sing	4	nsubj	_	_
+2	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	always	always	ADV	_	_	4	advmod	_	_
+4	getting	get	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+5	hurt	hurt	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 3801
+# text = They have minor leaguers at second and short, and Brooks can't keep his mind on the game.
+1	They	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	have	have	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	minor	minor	ADJ	POS	Degree=Pos	4	amod	_	_
+4	leaguers	leaguer	NOUN	PL-NOM	Number=Plur	2	obj	_	_
+5	at	at	ADP	_	_	6	case	_	_
+6	second	second	ADJ	ORD	Degree=Pos|NumType=Ord	2	obl	_	_
+7	and	and	CCONJ	_	_	8	cc	_	_
+8	short	short	ADJ	POS	Degree=Pos	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	14	punct	_	_
+10	and	and	CCONJ	_	_	14	cc	_	_
+11	Brooks	Brooks	PROPN	SG-NOM	Number=Sing	14	nsubj	_	_
+12	ca	can	AUX	PRES-AUX	VerbForm=Fin	14	aux	_	SpaceAfter=No
+13	n't	not	PART	NEG	_	14	advmod	_	_
+14	keep	keep	VERB	INF	VerbForm=Inf	2	conj	_	_
+15	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+16	mind	mind	NOUN	SG-NOM	Number=Sing	14	obj	_	_
+17	on	on	ADP	_	_	19	case	_	_
+18	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+19	game	game	NOUN	SG-NOM	Number=Sing	14	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3802
+# text = Mookie's good, but he's raw, and they can't even decide who to put in right.
+1	Mookie	Mookie	PROPN	SG-NOM	Number=Sing	3	nsubj	_	SpaceAfter=No
+2	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	good	good	ADJ	POS	Degree=Pos	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	8	punct	_	_
+5	but	but	CCONJ	_	_	8	cc	_	_
+6	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
+7	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	raw	raw	ADJ	POS	Degree=Pos	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	8	punct	_	_
+10	and	and	CCONJ	_	_	15	cc	_	_
+11	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+12	ca	can	AUX	PRES-AUX	VerbForm=Fin	15	aux	_	SpaceAfter=No
+13	n't	not	PART	NEG	_	15	advmod	_	_
+14	even	even	ADV	_	_	15	advmod	_	_
+15	decide	decide	VERB	INF	VerbForm=Inf	3	conj	_	_
+16	who	who	PRON	WH-NOM	PronType=Int	18	obj	_	_
+17	to	to	PART	_	_	18	mark	_	_
+18	put	put	VERB	INF	VerbForm=Inf	15	xcomp	_	_
+19	in	in	ADP	_	_	20	case	_	_
+20	right	right	ADV	_	_	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3803
+# text = There's still Rusty, of course, but he's too fat to run anymore.
+1	There	there	PRON	EX	_	2	expl	_	SpaceAfter=No
+2	's	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	still	still	ADV	_	_	2	advmod	_	_
+4	Rusty	Rusty	PROPN	SG-NOM	Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	6	punct	_	_
+6	of	of	ADV	_	_	2	advmod	_	_
+7	course	course	ADV	_	_	6	fixed	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	6	punct	_	_
+9	but	but	CCONJ	_	_	13	cc	_	_
+10	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	SpaceAfter=No
+11	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	too	too	ADV	_	_	13	advmod	_	_
+13	fat	fat	ADJ	POS	Degree=Pos	2	conj	_	_
+14	to	to	PART	_	_	15	mark	_	_
+15	run	run	VERB	INF	VerbForm=Inf	13	xcomp	_	_
+16	anymore	anymore	ADV	_	_	15	advmod	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3804
+# text = And as for the pitching, forget it.
+1	And	and	CCONJ	_	_	7	cc	_	_
+2	as	as	ADP	_	_	5	mark	_	_
+3	for	for	ADP	_	_	2	fixed	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	pitching	pitch	VERB	ING	Tense=Pres|VerbForm=Part	7	dislocated	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	5	punct	_	_
+7	forget	forget	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+8	it	it	PRON	PERS-SG	_	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3805
+# text = You and I could go over to Shea tomorrow and get hired as the top two starters.
+1	You	you	PRON	PERS-P2	_	5	nsubj	_	_
+2	and	and	CCONJ	_	_	3	cc	_	_
+3	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	_
+4	could	could	AUX	PAST-AUX	VerbForm=Fin	5	aux	_	_
+5	go	go	VERB	INF	VerbForm=Inf	0	root	_	_
+6	over	over	ADV	_	_	5	advmod	_	_
+7	to	to	ADP	_	_	8	case	_	_
+8	Shea	Shea	PROPN	SG-NOM	Number=Sing	5	obl	_	_
+9	tomorrow	tomorrow	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+10	and	and	CCONJ	_	_	11	cc	_	_
+11	get	get	VERB	INF	VerbForm=Inf	5	conj	_	_
+12	hired	hire	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	_
+13	as	as	ADP	_	_	17	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+15	top	top	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+16	two	two	NUM	CARD-PL	NumType=Card	17	nummod	_	_
+17	starters	start	NOUN	PL-NOM	Number=Plur	12	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 3806
+# text = Maybe I make you the manager, said the counterman.
+1	Maybe	maybe	ADV	_	_	3	advmod	_	_
+2	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	make	make	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	you	you	PRON	PERS-P2	_	3	obj	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+6	manager	manage	NOUN	SG-NOM	Number=Sing	3	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	8	punct	_	_
+8	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	counterman	counterman	NOUN	SG-NOM	Number=Sing	8	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3807
+# text = You could tell those fuckers where to get off.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	could	could	AUX	PAST-AUX	VerbForm=Fin	3	aux	_	_
+3	tell	tell	VERB	INF	VerbForm=Inf	0	root	_	_
+4	those	that	DET	DEM-PL	Number=Plur|PronType=Dem	5	det	_	_
+5	fuckers	fucker	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+6	where	where	ADV	WH	PronType=Int	8	advmod	_	_
+7	to	to	PART	_	_	8	mark	_	_
+8	get	get	VERB	INF	VerbForm=Inf	3	xcomp	_	_
+9	off	off	ADV	_	_	8	compound:prt	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3808
+# text = You bet your bottom dollar, said Quinn.
+1	You	you	PRON	PERS-P2	_	2	nsubj	_	_
+2	bet	bet	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	your	you	PRON	P2-GEN	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+4	bottom	bottom	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	dollar	dollar	NOUN	SG-NOM	Number=Sing	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	7	punct	_	_
+7	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+8	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	7	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3809
+# text = After he finished eating, Quinn wandered over to the stationery shelves.
+1	After	after	SCONJ	_	_	3	mark	_	_
+2	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	finished	finish	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	_	_
+4	eating	eat	VERB	ING	Tense=Pres|VerbForm=Part	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	7	punct	_	_
+6	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	7	nsubj	_	_
+7	wandered	wander	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+8	over	over	ADV	_	_	7	advmod	_	_
+9	to	to	ADP	_	_	12	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+11	stationery	stationery	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	shelves	shelf	NOUN	PL-NOM	Number=Plur	7	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3810
+# text = A shipment of new notebooks had come in, and the pile was impressive, a beautiful array of blues and greens and reds and yellows.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	2	det	_	_
+2	shipment	shipment	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	new	new	ADJ	POS	Degree=Pos	5	amod	_	_
+5	notebooks	notebook	NOUN	PL-NOM	Number=Plur	2	nmod	_	_
+6	had	have	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	_
+7	come	come	VERB	PERF	Tense=Past|VerbForm=Part	0	root	_	_
+8	in	in	ADV	_	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	14	punct	_	_
+10	and	and	CCONJ	_	_	14	cc	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
+12	pile	pile	NOUN	SG-NOM	Number=Sing	14	nsubj	_	_
+13	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	14	cop	_	_
+14	impressive	impressive	ADJ	POS	Degree=Pos	7	conj	_	SpaceAfter=No
+15	,	,	PUNCT	Comma	_	14	punct	_	_
+16	a	a	DET	IND-SG	Definite=Ind|PronType=Art	18	det	_	_
+17	beautiful	beautiful	ADJ	POS	Degree=Pos	18	amod	_	_
+18	array	array	NOUN	SG-NOM	Number=Sing	14	appos	_	_
+19	of	of	ADP	_	_	20	case	_	_
+20	blues	blue	ADJ	POS-PL	Degree=Pos	18	nmod	_	_
+21	and	and	CCONJ	_	_	22	cc	_	_
+22	greens	green	ADJ	POS-PL	Degree=Pos	20	conj	_	_
+23	and	and	CCONJ	_	_	24	cc	_	_
+24	reds	red	ADJ	POS-PL	Degree=Pos	20	conj	_	_
+25	and	and	CCONJ	_	_	26	cc	_	_
+26	yellows	yellow	ADJ	POS-PL	Degree=Pos	20	conj	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 3811
+# text = He picked one up and saw that the pages had the narrow lines he preferred.
+1	He	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	picked	pick	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	one	one	PRON	IND-P3SG	_	2	obj	_	_
+4	up	up	ADV	_	_	2	compound:prt	_	_
+5	and	and	CCONJ	_	_	6	cc	_	_
+6	saw	see	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	that	that	SCONJ	_	_	10	mark	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	pages	page	NOUN	PL-NOM	Number=Plur	10	nsubj	_	_
+10	had	have	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	6	ccomp	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	narrow	narrow	ADJ	POS	Degree=Pos	13	amod	_	_
+13	lines	line	NOUN	PL-NOM	Number=Plur	10	obj	_	_
+14	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	preferred	prefer	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
+16	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 3812
+# text = Quinn did all his writing with a pen, using a typewriter only for final drafts, and he was always on the lookout for good spiral notebooks.
+1	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	2	nsubj	_	_
+2	did	do	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	all	all	DET	TOT-SG	_	5	det	_	_
+4	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	writing	write	VERB	ING	Tense=Pres|VerbForm=Part	2	obj	_	_
+6	with	with	ADP	_	_	8	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+8	pen	pen	NOUN	SG-NOM	Number=Sing	2	obl	_	SpaceAfter=No
